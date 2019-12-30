@@ -504,6 +504,7 @@ pre {
 .col-xl-auto {
   position: relative;
   width: 100%;
+  margin: auto;
   padding-right: 15px;
   padding-left: 15px; }
 
@@ -8905,7 +8906,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
   text-transform: uppercase; }
 
 .description {
-  color: #9A9A9A; }
+  color: rgb(87, 87, 87); }
 
 blockquote small {
   font-style: normal; }
