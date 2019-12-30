@@ -9205,7 +9205,7 @@ blockquote small {
   .navbar .navbar-brand {
     font-weight: 700;
     margin: 5px 0px;
-    padding: 20px 15px;
+    padding: 10px 15px;
     font-size: 14px;
     color: #66615B;
     text-transform: uppercase; }
@@ -10231,7 +10231,7 @@ body > .navbar-collapse.collapse {
     max-width: 150px;
     max-height: 150px;
     margin: -60px auto 0;
-    border-radius: 4px;
+    border-radius: 5%;
     overflow: hidden; }
     .card-profile .card-avatar.border-white {
       border: 4px solid #FFFFFF; }
