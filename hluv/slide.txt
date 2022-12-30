@@ -5,6 +5,6 @@
         "http://hluv.edu.vn/media/2/ufi2151.png",
         "http://hluv.edu.vn/media/2/ufi2150.jpg",
         "http://hluv.edu.vn/media/2/ufi2143.jpg",
-        "http://hluv.edu.vn/media/2/ufi2280.jpg",
+        "http://hluv.edu.vn/media/2/ufi2280.jpg"
     ]
 }
