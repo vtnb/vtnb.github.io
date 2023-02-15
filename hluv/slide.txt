@@ -1,10 +1,8 @@
 {
     "slide": [
-        "http://hluv.edu.vn/media/2/ufi2282.jpg",
         "http://hluv.edu.vn/media/2/ufi2255.png",
         "http://hluv.edu.vn/media/2/ufi2151.png",
         "http://hluv.edu.vn/media/2/ufi2150.jpg",
-        "http://hluv.edu.vn/media/2/ufi2143.jpg",
-        "http://hluv.edu.vn/media/2/ufi2280.jpg"
+        "http://hluv.edu.vn/media/2/ufi2143.jpg"
     ]
 }
