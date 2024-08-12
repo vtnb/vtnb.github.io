@@ -1,4 +1,5 @@
-{
+--{
+    "active": false,
     "name": "HỘI THAO",
     "description": "KỶ NIỆM 79 NĂM NGÀY TRUYỀN THỐNG NGÀNH (15/08/1945 - 15/08/2024) \n VÀ 77 NĂM NGÀY THÀNH LẬP CÔNG ĐOÀN THÔNG TIN VÀ TRUYỀN THÔNG VIỆT NAM (30/08/1947 - 30/08/2024)",
     "backdrop": "https://telegra.ph/file/c211a3eb4bcda5a88ef87.png",
