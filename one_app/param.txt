@@ -1,3 +1,9 @@
 {
-	"requiredLogin": false 
+	"requiredLogin": false,
+	"showLogo": false,
+	"menuEnable": {
+		"quiz": false,
+		"vnptMoney": false,
+		"employee": false
+	}
 }
