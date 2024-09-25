@@ -1,0 +1,141 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script>
+<head>
+	<meta name="application-name" content="RANDOM.ORG">
+	<link rel="apple-touch-icon" sizes="72x72" href="//static.random.org/graphics/touch/app-touch-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="//static.random.org/graphics/touch/app-touch-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="//static.random.org/graphics/touch/app-touch-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="//static.random.org/graphics/touch/app-touch-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="//static.random.org/graphics/touch/app-touch-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="//static.random.org/graphics/touch/app-touch-152x152.png">
+	<link rel="apple-touch-icon" href="//static.random.org/graphics/touch/app-touch-full.png">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Keywords" content="true random numbers">
+	<meta name="description" content="RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs.">
+	<meta name="author" content="Mads Haahr">
+	<script type="text/javascript" src="/js/random.js"></script>
+	<script type="text/javascript" src="//static.random.org/lib/jquery-3.4.1/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="/js/simpledropdown.jquery.js"></script>
+	<style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.enable_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.enable_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.enable_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.enable_copy_btns_btn:hover{opacity:.8}.enable_copy_btns_btn:active{opacity:1}</style>
+	<title>RANDOM.ORG - Integer Widget</title>
+	<style type="text/css">
+	/* Eric Myer's Global Reset http://meyerweb.com/eric/tools/css/reset/index.html v1.0 | 20080212 */
+	html, body, div, span, applet, object, iframe,
+	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+	a, abbr, acronym, address, big, cite, code,
+	del, dfn, em, font, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var,
+	b, u, i, center,
+	dl, dt, dd, ol, ul, li,
+	fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		outline: 0;
+		font-size: 100%;
+		vertical-align: baseline;
+		background: transparent;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib {
+		font-family: verdana, sans;
+		font-size: 9pt;
+		background: #FFFFFF;
+		padding: 5px;
+		margin: 0px;
+		width: 148px;
+		color: #777777;
+		
+			border: 1px solid #CCCCFF;}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-title {
+		text-align: center;
+		padding: 8px;
+		display: block;
+		background: #CCCCFF;
+		color: #000000;
+		margin: -6px;
+		margin-bottom: 10px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min-span {
+		display: block;
+		margin-bottom: 5px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min-span label {
+		color: #777777;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min-span input {
+		width: 77px;
+		margin-left: 10px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-span {
+		display: block;
+		margin-bottom: 5px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-span label {
+		color: #777777;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-span input {
+		width: 77px;
+		margin-left: 6px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button {
+		display: block;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result {
+		display: block;
+		padding: 8px;
+		margin-bottom: 10px;
+		color: #000000;
+		background:  #CCCCFF;
+		font-size: 11pt;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-credits {
+		display: block;
+		font-size: 6pt;
+		text-align: right;
+		padding: 1px;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-credits a {
+		color: #777777;
+	}
+	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-credits a:hover {
+		color: #000000;
+	}
+	</style>
+	<script type="text/javascript">
+	if ("https:" == document.location.protocol) {
+	document.write(unescape("%3Cscript src='https://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	} else {
+	document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	</script><script src="https://www.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var rdoIframeTracker = _gat._getTracker("UA-6153345-1");
+	rdoIframeTracker._setDomainName("none");
+	rdoIframeTracker._setAllowLinker(true);
+	rdoIframeTracker._trackPageview("/widgets/integers/iframe?title=True+Random+Number+Generator&amp;buttontxt=Generate&amp;width=160&amp;height=230&amp;border=on&amp;bgcolor=%23FFFFFF&amp;txtcolor=%23777777&amp;altbgcolor=%23CCCCFFA&amp;alttxtcolor=%23000000&amp;defaultmin=1&amp;defaultmax=100&amp;fixed=off");
+	</script>
+	<script language="javascript" type="text/javascript">
+	var _0xc54e=["","split","0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/","slice","indexOf","","",".","pow","reduce","reverse","0"];function _0xe79c(d,e,f){var g=_0xc54e[2][_0xc54e[1]](_0xc54e[0]);var h=g[_0xc54e[3]](0,e);var i=g[_0xc54e[3]](0,f);var j=d[_0xc54e[1]](_0xc54e[0])[_0xc54e[10]]()[_0xc54e[9]](function(a,b,c){if(h[_0xc54e[4]](b)!==-1)return a+=h[_0xc54e[4]](b)*(Math[_0xc54e[8]](e,c))},0);var k=_0xc54e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc54e[11]}eval(function(h,u,n,t,e,r){r="";for(var i=0,len=h.length;i<len;i++){var s="";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],"g"),j);r+=String.fromCharCode(_0xe79c(s,e,10)-t)}return decodeURIComponent(escape(r))}("MGiwGniwYViwVGiYYwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYwMiYYwiwYGiwYWiwwYiwwViwVniYGmiMGiwGniwYViwVGiYYwiwwniwVYiwYmiwVWiwVmiwYWiwYMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYYwiYGWiYYwiwVniwVWiwwMiwwMiYGmiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiwwYiwYWiwVMiYWMiwVGiwVWiwYWiYWGiwYViwVniwYMiwVYiwwWiYMViwVniwVMiwYWiwwYiwYWiwVGiYwwiwwWiwwViwVniYwMiYYwiwwWiwYViwGwiYwViYYwiwGmiYYwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYYwiYGWiYYwiYMYiwYWiwVMiwnwiwwWiwwMiYMwiwVMiwVMiwVwiYWYiwYGiwwGiwYWiwYmiwVMiYwwiYwViYGmiMViwwViwwniYYwiYwwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYYwiYGWiYGWiYYwiwVniwVWiwwMiwwMiYwViYYwiwGmiMViwVGiwYWiwVMiwVWiwVGiwVniYGmiMViwGWiYYwiwwniwVYiwYmiwVWiwVmiwYWiwYMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYYwiYGWiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwYViwYmiwVMiwwViwGniwYWiYmWiwwMiwYWiwwWiwYWiwVniwVMiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwYGiwVWiwVMiwVMiwVYiwVniYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwVMiwVGiwVWiwYWiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwwViwVniYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwVMiwVGiwVWiwYWiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwYViwGwiYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwVMiwVGiwVWiwYWiYGmiMViwwWiwwViwVniYYwiYGWiYYwiwVwiwYViwVGiwVmiwYWiYMViwVniwVMiYwwiwwWiwwViwVniYwViYGmiMViwwWiwYViwGwiYYwiYGWiYYwiwVwiwYViwVGiwVmiwYWiYMViwVniwVMiYwwiwwWiwYViwGwiYwViYGmiMViwwViwwniYYwiYwwiwwViwVmiYWniwYViYWniYwwiwwWiwwViwVniYwViYwViYYwiwwWiwwViwVniYYwiYGWiYYwiYVViYGmiMViwwViwwniYYwiYwwiwwViwVmiYWniwYViYWniYwwiwwWiwYViwGwiYwViYwViYYwiwwWiwYViwGwiYYwiYGWiYYwiYVViYVwiYVwiYGmiMViwwViwwniYYwiYwwiwwWiwYViwGwiYYwiYGMiYGWiYYwiwwWiwwViwVniYwViYYwiwwWiwYViwGwiYYwiYGWiYYwiwwWiwwViwVniYYwiYwmiYYwiYVViYGmiMViwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwwViwVniYYGiYwViYVniwGniwYViwwMiwVWiwYWiYYwiYGWiYYwiwwWiwwViwVniYGmiMViwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwYViwGwiYYGiYwViYVniwGniwYViwwMiwVWiwYWiYYwiYGWiYYwiwwWiwYViwGwiYGmiMViwGniwYViwVGiYYwiwVWiwVGiwwMiYGmiYYwiwVWiwVGiwwMiYYwiYGWiYYwiYYGiwwwiwVMiwVMiwVwiwVmiYGGiYVYiYVYiwGYiwGYiwGYiYVniwVGiwYViwVniwYMiwVYiwwWiYVniwVYiwVGiwwYiYVYiwwViwVniwVMiwYWiwwYiwYWiwVGiwVmiYVYiYmYiwVniwVWiwwWiYGWiYVViYwniwwWiwwViwVniYGWiYYGiYYwiYwmiYYwiwwWiwwViwVniYYwiYwmiYYwiYYGiYwniwwWiwYViwGwiYGWiYYGiYYwiYwmiYYwiwwWiwYViwGwiYYwiYwmiYYwiYYGiYwniwYmiwVYiwwMiYGWiYVViYwniwYGiwYViwVmiwYWiYGWiYVViYVwiYwniwwniwVYiwVGiwwWiwYViwVMiYGWiwVwiwwMiwYViwwViwVniYwniwVGiwVniwYMiYGWiwVniwYWiwGYiYwniwYmiwwMiYGWiwGYiYYGiYGmiMViwYGiwYWiwwYiwwViwVniYYwiYGWiYYwiwVniwYWiwGYiYYwiYmMiwYViwVMiwYWiYwwiYwViYVniwwYiwYWiwVMiYWMiwwViwwWiwYWiYwwiYwViYGmiMViwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwVGiwYWiwVmiwVWiwwMiwVMiYYGiYwViYVniwwViwVniwVniwYWiwVGiYMwiYWMiYMWiYMMiYYwiYGWiYYwiYwYiYGMiwwViwwWiwwYiYYwiwVmiwVGiwYmiYGWiYYGiYVYiwVWiwVMiwwViwwMiYVYiwYmiwVwiYVYiwwViwwWiwYViwwYiwYWiwVmiYVYiwYViwwGiwYViwGwiYwWiwwMiwVYiwYViwYMiwYWiwVGiYVniwwYiwwViwwniYYGiYYwiwYViwwMiwVMiYGWiYYGiYMMiwVYiwYViwYMiwwViwVniwwYiYVniYVniYVniYYGiYYwiYVYiYmniYwYiYGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVYiwVwiwYWiwVniYwwiYYGiYMYiYmWiYWMiYYGiYwMiYYwiwVWiwVGiwwMiYwMiYYwiwVMiwVGiwVWiwYWiYwViYGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVYiwVniwVGiwYWiwYViwYMiwGViwVmiwVMiwYViwVMiwYWiwYmiwwwiwYViwVniwwYiwYWiYYwiYGWiYYwiwVWiwVwiwYMiwYViwVMiwYWiYWMiwVGiwVniwwYiYmMiwwViwVmiwVwiwwMiwYViwGViYmViwwGiwYViwGwiYGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVmiwYWiwVniwYMiYwwiwVniwVWiwwMiwwMiYwViYGmiMGiwGWiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiwVWiwVwiwYMiwYViwVMiwYWiYWMiwVGiwVniwwYiYmMiwwViwVmiwVwiwwMiwYViwGViYmViwwGiwYViwGwiYwwiYwViYYwiwGmiMViwwViwwniYYwiYwwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVGiwYWiwYViwYMiwGViYWmiwVMiwYViwVMiwYWiYYwiYGMiYYwiYVMiYwViYYwiwGmiMViwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwVGiwYWiwVmiwVWiwwMiwVMiYYGiYwViYVniwwViwVniwVniwYWiwVGiYMwiYWMiYMWiYMMiYYwiYGWiYYwiYwYiYGMiwwViwwWiwwYiYYwiwVmiwVGiwYmiYGWiYYGiYVYiwVWiwVMiwwViwwMiYVYiwYmiwVwiYVYiwwViwwWiwYViwwYiwYWiwVmiYVYiwYViwwGiwYViwGwiYwWiwwMiwVYiwYViwYMiwYWiwVGiYVniwwYiwwViwwniYYGiYYwiwYViwwMiwVMiYGWiYYGiYMMiwVYiwYViwYMiwwViwVniwwYiYVniYVniYVniYYGiYYwiYVYiYmniYwYiYGmiMViwGWiMViwwViwwniYYwiYwwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVGiwYWiwYViwYMiwGViYWmiwVMiwYViwVMiwYWiYYwiYGWiYGWiYYwiYVMiYwViYYwiwGmiYYwiwGniwYViwVGiYYwiwGYiwYViwwViwVMiwVGiwYWiwwWiwYViwwViwVniYYwiYGWiYYwiYGniYVwiYVwiYYwiYwWiYYwiYwwiwVniwYWiwGYiYYwiYmMiwYViwVMiwYWiYwwiYwViYVniwwYiwYWiwVMiYWMiwwViwwWiwYWiYwwiYwViYYwiYwWiYYwiwYGiwYWiwwYiwwViwVniYwViYGmiYYwiwwViwwniYYwiYwwiwGYiwYViwwViwVMiwVGiwYWiwwWiwYViwwViwVniYYwiYmniYYwiYVwiYwViYYwiwGmiMViwVmiwYWiwVMiYWMiwwViwwWiwYWiwVYiwVWiwVMiYwwiwVwiwVGiwwViwVniwVMiYWniwVWiwwWiwYGiwYWiwVGiYwMiYYwiwGYiwYViwwViwVMiwVGiwYWiwwWiwYViwwViwVniYwViYGmiYYwiwGWiYYwiwYWiwwMiwVmiwYWiYYwiwGmiMViwVwiwVGiwwViwVniwVMiYWniwVWiwwWiwYGiwYWiwVGiYwwiYwViYGmiYYwiwGWiMViwGWiMGiwGWiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiwVGiwYWiwVwiwwMiwYViwYmiwYWiYmViwwMiwwMiYwwiwVYiwVGiwwViwwYiwwViwVniwYViwwMiYWmiwVMiwVGiwwViwVniwwYiYwMiYYwiwwniwwViwVniwYMiYwMiYYwiwVGiwYWiwVwiwwMiwYViwYmiwYWiYwViYYwiwGmiYYwiwVGiwYWiwVMiwVWiwVGiwVniYYwiwVYiwVGiwwViwwYiwwViwVniwYViwwMiYWmiwVMiwVGiwwViwVniwwYiYVniwVGiwYWiwVwiwwMiwYViwYmiwYWiYwwiwVniwYWiwGYiYYwiYWGiwYWiwwYiYmWiwGwiwVwiYwwiwwniwwViwVniwYMiYwMiYYwiYYGiwwYiYYGiYwViYwMiYYwiwVGiwYWiwVwiwwMiwYViwYmiwYWiYwViYGmiMGiwGWiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiwVwiwVGiwwViwVniwVMiYWniwVWiwwWiwYGiwYWiwVGiYwwiYwViYYwiwGmiYYwiwGniwYViwVGiYYwiwVMiwVGiwVniwwYiwVGiwYWiwVmiwVwiwVYiwVniwVmiwYWiYYwiYGWiYYwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYVniwVGiwYWiwVmiwVwiwVYiwVniwVmiwYWiYWMiwYWiwGwiwVMiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwVGiwYWiwVmiwVWiwwMiwVMiYYGiYwViYVniwwViwVniwVniwYWiwVGiYMwiYWMiYMWiYMMiYYwiYGWiYYwiwVGiwYWiwVwiwwMiwYViwYmiwYWiYmViwwMiwwMiYwwiwVMiwVGiwVniwwYiwVGiwYWiwVmiwVwiwVYiwVniwVmiwYWiYwMiYYwiYYGiwnMiwVniYYGiYwMiYYwiYYGiYGMiwYGiwVGiYYwiYVYiYmniYYGiYwViYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwYGiwVWiwVMiwVMiwVYiwVniYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwwniwYViwwMiwVmiwYWiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwwViwVniYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwwniwYViwwMiwVmiwYWiYGmiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwYViwGwiYYGiYwViYVniwYMiwwViwVmiwYViwYGiwwMiwYWiwYMiYYwiYGWiYYwiwwniwYViwwMiwVmiwYWiYGmiYYwiwwViwwniYYwiYwwiwwniwVYiwYmiwVWiwVmiwYWiwYMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYwViYYwiwGmiYYwiwwniwVYiwYmiwVWiwVmiwYWiwYMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYVniwwniwVYiwYmiwVWiwVmiYwwiYwViYGmiYYwiwGWiMGiwGWiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiYMYiwYWiwVMiwnwiwwWiwwMiYMwiwVMiwVMiwVwiYWYiwYGiwwGiwYWiwYmiwVMiYwwiYwViYYwiwGmiMViwGniwYViwVGiYYwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYGWiwVniwVWiwwMiwwMiYGmiMViwVMiwVGiwGViYYwiwGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYYwiYGWiYYwiwVniwYWiwGYiYYwiwnwiYMWiYMMiYMwiwVMiwVMiwVwiYWGiwYWiwVViwVWiwYWiwVmiwVMiYwwiYwViYGmiMViwGWiYYwiwYmiwYViwVMiwYmiwwwiYYwiYwwiwYWiYwViYYwiwGmiMViwVMiwVGiwGViYYwiwGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYYwiYGWiYYwiwVniwYWiwGYiYYwiYmViwYmiwVMiwwViwGniwYWiwnwiYWYiwYGiwwGiwYWiwYmiwVMiYwwiYYGiYMWiwVmiwGwiwwWiwwMiYVGiYVniwnwiYMWiYMMiYMwiYWMiYWMiYWwiYYGiYwViYGmiMViwGWiYYwiwYmiwYViwVMiwYmiwwwiYYwiYwwiwYWiYwViYYwiwGmiMViwGwiwwWiwwMiYMwiwVMiwVMiwVwiYYwiYGWiYYwiwVniwYWiwGYiYYwiYmViwYmiwVMiwwViwGniwYWiwnwiYWYiwYGiwwGiwYWiwYmiwVMiYwwiYYGiYMWiwwViwYmiwVGiwVYiwVmiwVYiwwniwVMiYVniwnwiYMWiYMMiYMwiYWMiYWMiYWwiYYGiYwViYGmiMViwGWiMViwGWiMViwVGiwYWiwVMiwVWiwVGiwVniYYwiwGwiwwWiwwMiYMwiwVMiwVMiwVwiYGmiMGiwGWiMGiwwniwVWiwVniwYmiwVMiwwViwVYiwVniYYwiwwViwVniwVMiwYWiwwYiwYWiwVGiYMGiwVmiYMViwVniwVwiwVWiwVMiYmmiwVYiwVniwVMiwVGiwVYiwwMiYwwiwwmiwYWiwGViwVwiYwViYYwiwGmiMViwGniwYViwVGiYYwiwVWiwVniwwViwYmiwVYiwYMiwYWiYGWiwwmiwYWiwGViwVwiYVniwYmiwwwiwYViwVGiYmmiwVYiwYMiwYWiYYwiYmYiYYwiwwmiwYWiwGViwVwiYVniwYmiwwwiwYViwVGiYmmiwVYiwYMiwYWiYYwiYGGiYYwiwwmiwYWiwGViwVwiYVniwwmiwYWiwGViYmmiwVYiwYMiwYWiYGmiYYwiwwViwwniYYwiYwwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYGWiYGWiYYwiYVViYVmiYwViYYwiwGmiYYwiwwYiwYWiwVMiYWMiwVGiwVWiwYWiYWGiwYViwVniwYMiwVYiwwWiYMViwVniwVMiwYWiwwYiwYWiwVGiYwwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwwViwVniYYGiYwViYVniwGniwYViwwMiwVWiwYWiYwMiYYwiwYMiwVYiwYmiwVWiwwWiwYWiwVniwVMiYVniwwYiwYWiwVMiYmWiwwMiwYWiwwWiwYWiwVniwVMiYmGiwGViYMViwYMiYwwiYYGiwVGiwGwiwVGiwwViwwWiwVGiwwViwVWiwVWiwwGiwVViwVMiwVMiwVniwGGiwYViwYViwVGiwVmiwYGiwVViwGwiwwViwYWiwwYiwYWiwYWiwVYiwYMiwGniwwMiwGniwYMiwGwiwwMiwwWiwVViwYWiwGniwwYiwGwiwVYiwVMiwGYiwVwiwVWiwVniwVwiwVMiwYWiwVViwwGiwYGiwGViwVYiwwViwYGiYwWiwwWiwYViwGwiYYGiYwViYVniwGniwYViwwMiwVWiwYWiYwViYGmiYYwiwVGiwYWiwVMiwVWiwVGiwVniYYwiwVMiwVGiwVWiwYWiYGmiYYwiwGWiMViwwViwwniYYwiYwwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYYViYGWiYYwiYGwiYYwiYwniYwniYYwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYYViYGWiYYwiYGViYYwiYwniYwniYYwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYYViYGWiYYwiYVMiYVWiYwViYYwiwGmiMViwwViwwniYYwiYwwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYGMiYYwiYVMiYGwiYYwiwGMiwGMiYYwiwVWiwVniwwViwYmiwVYiwYMiwYWiYYwiYmniYYwiYVWiYGYiYwViYYwiwGmiMViwVGiwYWiwVMiwVWiwVGiwVniYYwiwwniwYViwwMiwVmiwYWiYGmiMViwGWiYYwiwYWiwwMiwVmiwYWiYYwiwGmiMViwVGiwYWiwVMiwVWiwVGiwVniYYwiwVMiwVGiwVWiwYWiYGmiMViwGWiMViwGWiYYwiwGWi",4,"nYwVGmMWi",42,8,6))</script>
+</head>
+<body oncontextmenu="return false" __processed_5bea4f7e-4602-43b3-98fe-5b81b7976d19__="true">
+</body>
+	</br>
+	<center>
+		<div id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib">
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-title"><b>Tạo số ngẫu nhiên</b></span>
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min-span">
+			<label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min">Min:</label>
+			<input type="number" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min" maxlength="9" value="40400" onkeypress="return integerJsInputControl(event);">
+		</span>
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-span">
+			<label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max">Max:</label>
+			<input type="number" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max" maxlength="9" value="40499" onkeypress="return integerJsInputControl(event);">
+		</span>
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-button-span">
+			<input type="button" value="Random" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" onclick="getTrueRandomInteger(document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min').value, document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max').value);">
+		</span>
+		<label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result">Kết quả:</label>
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result"><center><span style="font-size:100%;font-weight:bold;">40480<br></span><span style="font-size:70%;">Min:&nbsp;40400, Max:&nbsp;40499<br>2024-09-25 03:56:25 UTC</span></center></span>
+	</div>
+	</center>
+</body></html>
