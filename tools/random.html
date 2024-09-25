@@ -43,6 +43,7 @@
 		padding: 5px;
 		margin: 24px;
 		width: 80vw;
+		max-width: 320px;
 		color: #777777;
 		
 			border: 1px solid #CCCCFF;}
@@ -79,6 +80,15 @@
 	}
 	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button {
 		display: block;
+		background-color: #f44336; /* Red */
+		  border: none;
+		  color: white;
+		  padding: 12px 24px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 16px;
+		  border-radius: 8px;
 	}
 	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result {
 		display: block;
@@ -86,7 +96,15 @@
 		margin-bottom: 10px;
 		color: #000000;
 		background:  #CCCCFF;
-		font-size: 11pt;
+		font-size: 24pt;
+	}
+	#result-plate {
+		display: block;
+		padding: 8px;
+		margin-bottom: 10px;
+		color: #000000;
+		background:  #CCCCFF;
+		font-size: 36pt !important;
 	}
 	#rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-credits {
 		display: block;
@@ -131,11 +149,12 @@
 			<label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max">Max:</label>
 			<input type="number" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max" maxlength="9" value="40499" onkeypress="return integerJsInputControl(event);">
 		</span>
-		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-button-span">
-			<input type="button" value="Random" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" onclick="getTrueRandomInteger(document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min').value, document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max').value);">
+		<br/>
+		<span style="height:36px;width: 80px" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max-button-span">
+			<input type="button" value="BẤM BIỂN" name="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-button" onclick="getTrueRandomInteger(document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-min').value, document.getElementById('rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-max').value);">
 		</span>
-		<label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result">Kết quả:</label>
-		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result"><center><span style="font-size:100%;font-weight:bold;">40480<br></span><span style="font-size:70%;">Min:&nbsp;40400, Max:&nbsp;40499<br>2024-09-25 03:56:25 UTC</span></center></span>
+		<br/><br/><label for="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result">Kết quả:</label><br/><br/>
+		<span id="rxrimriuujqttnzaarsbqxiegeeodvlvdxlmqevgxotwpunpteqjbyoib-result"><center><span id="result-plate" style="font-size:100%;font-weight:bold;">40480<br></span><span style="font-size:70%;">Min:&nbsp;40400, Max:&nbsp;40499<br>2024-09-25 03:56:25 UTC</span></center></span>
 	</div>
 	</center>
 </body></html>
