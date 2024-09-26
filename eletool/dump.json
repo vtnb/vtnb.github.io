@@ -3478,13 +3478,6 @@
         ]
     },
     {
-        "que": "Ưu điểm của mật khẩu dùng một lần (One Time PassWord)",
-        "ans": [
-            "Chỉ dùng được 1 lần và không sử dụng lại.",
-            "Khó tấn công."
-        ]
-    },
-    {
         "que": "Hãy chỉ ra các con đường có thể phát tán và lây lan của mã độc trên thiết bị di động?",
         "ans": [
             "Qua việc cài đặt các ứng dụng không an toàn",
