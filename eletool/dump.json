@@ -388,8 +388,7 @@
     {
         "que": "Chọn thiết bị mạng không dây (bộ phát wifi) như thế nào để đảm bảo an toàn thông tin khi sử dụng?",
         "ans": [
-            "Chọn thiết bị có nguồn gốc xuất xứ rõ ràng, thương hiệu uy tín từ các cửa hàng chính hãng",
-            "Chọn thiết bị có nguồn gốc xuất xứ, thương hiệu nổi tiếng của nước ngoài"
+            "Chọn thiết bị có nguồn gốc xuất xứ rõ ràng, thương hiệu uy tín từ các cửa hàng chính hãng"
         ]
     },
     {
@@ -3658,13 +3657,6 @@
             "Bài đăng cung cấp thông tin về một chủ đề để lấy phần quà từ nhà tài trợ",
             "Các trang thông tin liên quan đến đánh bạc, cá cược",
             "Quảng cáo về phần thưởng có giá trị cao và chỉ cần cung cấp thông tin thẻ ngân hàng để nhận thưởng"
-        ]
-    },
-    {
-        "que": "Chọn thiết bị mạng không dây (bộ phát wifi) như thế nào để đảm bảo an toàn thông tin khi sử dụng?",
-        "ans": [
-            "Chọn thiết bị có nguồn gốc xuất xứ, thương hiệu nổi tiếng của nước ngoài",
-            "Chọn thiết bị có nguồn gốc xuất xứ rõ ràng, thương hiệu uy tín từ các cửa hàng chính hãng"
         ]
     },
     {
