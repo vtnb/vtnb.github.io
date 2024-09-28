@@ -629,15 +629,6 @@
         ]
     },
     {
-        "que": "Việc công khai thông tin quá mức trên mạng dẫn đến hậu quả?.",
-        "ans": [
-            "Kẻ xấu biết được thông tin về địa chỉ, nơi ở.",
-            "Bị nhận các tin nhắn, cuộc gọi quảng cáo",
-            "Nhận được nhiều cuộc gọi lừa đảo, giả danh người nhà để lấy lòng tin rồi làm theo họ",
-            "Bán thông tin trên chợ đen"
-        ]
-    },
-    {
         "que": "Hiện nay trên nhiều diễn đàn, hội nhóm chia sẻ với nhau về cách kiếm tiền thụ động bằng cách tham gia thực hiện các nhiệm vụ. Khi xem bình luận có thể thấy có nhiều bình luận tích cực, và họ đã nhận được tiền từ công việc này. Tuy nhiên họ yêu cầu bạn phải tiến hành đăng ký tài khoản, điền thêm thông tin về ngân hàng để nhận tiền. Trong trường hợp này cần xử lý ra sao?",
         "ans": [
             "Không đăng ký tài khoản, không cung cấp thông tin cá nhân",
@@ -3194,12 +3185,6 @@
         ]
     },
     {
-        "que": "Khi nhận được điện thoại báo \"Xe của bạn gây tai nạn tại địa điểm A T/TP B, bạn cần liên hệ đến trụ sở CA tại T/TP B để xử lý và cần xác thực các thông tin qua điện thoại với cơ quan CA\" Việc cần làm của bạn là gì?",
-        "ans": [
-            "Liên hệ ngay với cơ quan CA gần nhất để xác minh các thông tin trên."
-        ]
-    },
-    {
         "que": "Bạn nhận được email sau có nội dung \"This message was sent from a trusted sender\". Điều này có nghĩa là bạn có thể tin rằng email này là hợp pháp?",
         "ans": [
             "Không"
@@ -3210,12 +3195,6 @@
         "ans": [
             "Mật khẩu cần được bảo vệ bằng cách không chia sẻ nó với người khác và định kỳ thay đổi mật khẩu.",
             "Mật khẩu cần được thiết lập để bảo vệ máy tính của bạn khỏi truy cập trái phép và tấn công mạng."
-        ]
-    },
-    {
-        "que": "Chọn thiết bị mạng không dây (bộ phát wifi) như thế nào để đảm bảo an toàn thông tin khi sử dụng?",
-        "ans": [
-            "Chọn thiết bị có nguồn gốc xuất xứ rõ ràng, thương hiệu uy tín từ các cửa hàng chính hãng"
         ]
     },
     {
@@ -3731,6 +3710,41 @@
             "Quảng cáo dịch vụ làm visa (thị thực) du lịch nước ngoài, cam kết tỷ lệ thành công cao, hoàn trả 100% số tiền nếu không xin được visa. Sau khi nạn nhân chuyển khoản thanh toán chi phí hoặc một phần chi phí, các đối tượng sẽ để nạn nhân tự khai thông tin tờ khai, hoàn thiện hồ sơ… sau đó lấy lý do nạn nhân khai thông tin bị thiếu và không trả lại tiền.",
             "Làm giả/chiếm đoạt tài khoản của người dùng bằng cách liên lạc với nhóm bạn bè thông báo đang mắc kẹt khu du lịch tại nước ngoài và cần một khoản tiền ngay lập tức.",
             "Tạo ra các website trang mạng xã hội, với địa chỉ đường dẫn, thiết kế tương tự kênh của các hãng hoặc đại lý bán vé máy bay chính thức."
+        ]
+    },
+    {
+        "que": "Khi nhận được điện thoại báo \"Xe của bạn gây tai nạn tại địa điểm A T/TP B, bạn cần liên hệ đến trụ sở CA tại T/TP B để xử lý và cần xác thực các thông tin qua điện thoại với cơ quan CA\"\nViệc cần làm của bạn là gì?",
+        "ans": [
+            "Liên hệ ngay với cơ quan CA gần nhất để xác minh các thông tin trên."
+        ]
+    },
+    {
+        "que": "Nếu bạn đã chuyển tiền cho kẻ lừa đảo, bạn cần làm gì?",
+        "ans": [
+            "Tất cả phương án đều đúng."
+        ]
+    },
+    {
+        "que": "Với tốc độ lan truyền thông tin tức thời, nhanh chóng, việc các đối tượng lợi dụng thiên tai, lũ lụt để thực hiện các hành vi lừa đảo trên mạng xã hội không chỉ gây thiệt hại về kinh tế cho người dân mà còn làm giảm lòng tin của cộng đồng đối với các hoạt động từ thiện chân chính. Khi tiếp cận với thông tin trên mạng xã hội, người dân cần:",
+        "ans": [
+            "Chọn lọc thông tin, không chia sẻ những thông tin thiếu chính xác, chưa được kiểm chứng. Người dân cũng cần nêu cao tinh thần cảnh giác, không gửi tiền quyên góp, ủng hộ đồng bào bị thiệt hại bởi mưa lũ vào các tài khoản tiềm ẩn nguy cơ rủi ro."
+        ]
+    },
+    {
+        "que": "Hiện nay trên nhiều diễn đàn, hội nhóm chia sẻ với nhau về cách kiếm tiền thụ động bằng cách tham gia thực hiện các nhiệm vụ. Khi xem bình luận có thể thấy có nhiều bình luận tích cực, và họ đã nhận được tiền từ công việc này. Tuy nhiên họ yêu cầu bạn phải tiến hành đăng ký tài khoản, điền thêm thông tin về ngân hàng để nhận tiền. Trong trường hợp này cần xử lý ra sao?",
+        "ans": [
+            "Kiểm tra các tài khoản đã bình luận, xem có đáng tin cậy không",
+            "Không đăng ký tài khoản, không cung cấp thông tin cá nhân",
+            "Kiểm tra ứng dụng, website đó xem có thật sự an toàn qua một số công cụ online"
+        ]
+    },
+    {
+        "que": "Việc công khai thông tin quá mức trên mạng dẫn đến hậu quả?",
+        "ans": [
+            "Kẻ xấu biết được thông tin về địa chỉ, nơi ở",
+            "Bị nhận được các tin nhắn, cuộc gọi quảng cáo",
+            "Nhận được nhiều cuộc gọi lừa đảo, giả danh người nhà để lấy lòng tin rồi làm theo họ",
+            "Bán thông tin trên chợ đen."
         ]
     }
 ]
