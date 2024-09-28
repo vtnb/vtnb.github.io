@@ -154,13 +154,6 @@
         ]
     },
     {
-        "que": "Bản hệ điều hành windows nào bị Microsolf ngưng nâng cấp phiên bản",
-        "ans": [
-            "win 8.1",
-            "win 7"
-        ]
-    },
-    {
         "que": "Khi gặp các thông tin, bài đăng xuyên tạc, không đúng về bản thân bạn trên mạng xã hội. Bạn sẽ xử lý bằng cách nào sau đây?",
         "ans": [
             "Yêu cầu chủ bài viết gỡ bỏ và báo cáo bài viết cho quản trị viên hoặc đơn vị quản lý, vận hành mạng xã hội trong trường hợp chủ bài viết không đồng ý gỡ bỏ."
@@ -626,6 +619,15 @@
             "Không được sử dụng số tiền chuyển nhầm này",
             "Cần nâng cao nhận thức và đề phòng vì người tự xưng nhân viên ngân hàng có thể là giả mạo, đang dụ dỗ đánh cắp thông tin tài khoản ngân hàng của bạn.",
             "Đến trình báo cơ quan công an nơi cơ trú và làm việc trực tiếp với ngân hàng để được hướng dẫn trả lại số tiền."
+        ]
+    },
+    {
+        "que": "Việc công khai thông tin quá mức trên mạng dẫn đến hậu quả?.",
+        "ans": [
+            "Kẻ xấu biết được thông tin về địa chỉ, nơi ở.",
+            "Bị nhận các tin nhắn, cuộc gọi quảng cáo",
+            "Nhận được nhiều cuộc gọi lừa đảo, giả danh người nhà để lấy lòng tin rồi làm theo họ",
+            "Bán thông tin trên chợ đen"
         ]
     },
     {
@@ -3185,6 +3187,12 @@
         ]
     },
     {
+        "que": "Khi nhận được điện thoại báo \"Xe của bạn gây tai nạn tại địa điểm A T/TP B, bạn cần liên hệ đến trụ sở CA tại T/TP B để xử lý và cần xác thực các thông tin qua điện thoại với cơ quan CA\" Việc cần làm của bạn là gì?",
+        "ans": [
+            "Liên hệ ngay với cơ quan CA gần nhất để xác minh các thông tin trên."
+        ]
+    },
+    {
         "que": "Bạn nhận được email sau có nội dung \"This message was sent from a trusted sender\". Điều này có nghĩa là bạn có thể tin rằng email này là hợp pháp?",
         "ans": [
             "Không"
@@ -3745,6 +3753,42 @@
             "Bị nhận được các tin nhắn, cuộc gọi quảng cáo",
             "Nhận được nhiều cuộc gọi lừa đảo, giả danh người nhà để lấy lòng tin rồi làm theo họ",
             "Bán thông tin trên chợ đen."
+        ]
+    },
+    {
+        "que": "Bản hệ điều hành windows nào bị Microsoft ngưng nâng cấp phiên bản ?",
+        "ans": [
+            "win 8.1",
+            "win 7"
+        ]
+    },
+    {
+        "que": "Bạn nhận định như thế nào về các dịch vụ lấy lại tiền khi đã bị lừa tràn lan trên mạng xã hội ngày nay?",
+        "ans": [
+            "Đây là hình thức lừa đảo đánh vào tâm lý hoang mang của những người vừa bị lừa đảo qua mạng, kẻ xấu lại cung cấp dịch vụ lấy lại tiền bị lừa để tiếp tục chiếm đoạt tài sản nạn nhân.",
+            "Các đối tượng xấu xây dựng một nhân vật tin tưởng và đáng tin cậy thông qua việc tạo các hồ sơ giả, trang web giả hoặc tài liệu giả như đóng vai luật sư, nhân viên ngân hàng, kỹ sư công nghệ thông tin...cung cấp \"dịch vụ hỗ trợ lấy lại tiền bị lừa\" nhưng thực chất là để đưa nạn nhân \"vào tròng\" thêm một lần nữa"
+        ]
+    },
+    {
+        "que": "Đâu là dấu hiệu nhận diện các cuộc gọi video Deepfake?",
+        "ans": [
+            "Thời gian gọi thường rất ngắn, chỉ vài giây. Ngắt giữa chừng, bảo là mất sóng, sóng yếu…",
+            "Khuôn mặt thiếu tính cảm xúc và khá \"trơ\" khi nói, hoặc tư thế trông lúng túng, không tự nhiên, hoặc là hướng đầu và cơ thể trong video không nhất quán với nhau.",
+            "Màu da của nhân vật trong video bất thường, ánh sáng kỳ lạ và bóng đổ không đúng vị trí. Điều này có thể khiến cho video trông rất giả tạo và không tự nhiên.",
+            "Âm thanh sẽ không đồng nhất với hình ảnh, có nhiều tiếng ồn bị lạc vào clip hoặc clip không có âm thanh.",
+            "Yêu cầu chuyển tiền mà tài khoản chuyển tiền không phải của người đang thực hiện cuộc gọi."
+        ]
+    },
+    {
+        "que": "Bạn nhận được lời mời sử dụng dịch vụ theo dõi, đọc trộm tin nhắn của người khác trên mạng xã hội. Bạn nhận định về sự việc này như thế nào?",
+        "ans": [
+            "Tuyệt đối không sử dụng các dịch vụ hoặc ứng dụng có mục đích xâm phạm quyền riêng tư của người khác. Hành vi đọc trộm tin nhắn không chỉ là vi phạm pháp luật mà còn là vi phạm nghiêm trọng đạo đức xã hội. Việc xâm phạm quyền riêng tư có thể gây ra tổn thương tâm lý, làm mất lòng tin giữa các cá nhân."
+        ]
+    },
+    {
+        "que": "Anh/chị có nhận định gì về email sau?",
+        "ans": [
+            "Là 1 phishing email (email lừa đảo) thu thập thông tin username/password"
         ]
     }
 ]
