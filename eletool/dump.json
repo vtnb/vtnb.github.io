@@ -3662,14 +3662,6 @@
         ]
     },
     {
-        "que": "Theo anh/chị thì nhận định nào sau đây là đúng ?",
-        "ans":
-        [
-            "Không sử dụng các mật khẩu dễ nhớ như “123456”, “abcdef”… vì đây là các mật khẩu yếu, rất dễ đoán",
-            "Nên sử dụng VPN để đảm bảo an toàn bảo mật khi sử dụng mạng wifi công cộng"
-        ]
-    },
-    {
         "que": "Việc chia sẻ, đăng tải các thông tin sai sự thật gây hoang mang dư luận có phải là hành vi vi phạm pháp luật không?..",
         "ans":
         [
@@ -3891,15 +3883,6 @@
         ]
     },
     {
-        "que": "Theo anh/chị thì nhận định nào sau đây là đúng ?",
-        "ans":
-        [
-            "Nên sử dụng VPN để đảm bảo an toàn bảo mật khi sử dụng mạng wifi công cộng",
-            "Không sử dụng các mật khẩu dễ nhớ như “123456”, “abcdef”… vì đây là các mật khẩu yếu, rất dễ đoán",
-            "Phần mềm diệt virus là lớp lá chắn quan trọng bảo vệ người sử dụng khỏi các mã độc và virus. Do đó, cần có chương trình diệt virus để bảo vệ người dùng ngay trong các hoạt động đầu tiên của người sử dụng trên máy tính."
-        ]
-    },
-    {
         "que": "Những hành động nào sau đây có nguy cơ cao dẫn đển máy tính bị lây nhiễm mã độc?",
         "ans":
         [
@@ -3915,15 +3898,6 @@
             "Cân nhắc trước khi chia sẻ hình ảnh, video clip hay thông tin trên mạng xã hội",
             "Chỉ nên kết bạn với những người mà chúng ta quen biết trong đời thực",
             "Nên đăng xuất tài khoản sau khi sử dụng, đặc biệt khi sử dụng máy tính công cộng"
-        ]
-    },
-    {
-        "que": "Theo anh/chị thì nhận định nào sau đây là đúng ?",
-        "ans":
-        [
-            "Phần mềm diệt virus là lớp lá chắn quan trọng bảo vệ người sử dụng khỏi các mã độc và virus. Do đó, cần có chương trình diệt virus để bảo vệ người dùng ngay trong các hoạt động đầu tiên của người sử dụng trên máy tính.",
-            "Nên sử dụng VPN để đảm bảo an toàn bảo mật khi sử dụng mạng wifi công cộng",
-            "Không sử dụng các mật khẩu dễ nhớ như “123456”, “abcdef”… vì đây là các mật khẩu yếu, rất dễ đoán"
         ]
     },
     {
@@ -3999,15 +3973,6 @@
             "Đối với máy tính ở nhà, bật firewall và các phần mềm chống mã độc.",
             "Hãy khóa máy tính khi rời chỗ ngồi",
             "Luôn cài mật khẩu đăng nhập máy tính"
-        ]
-    },
-    {
-        "que": "Theo anh/chị thì nhận định nào sau đây là đúng ?",
-        "ans":
-        [
-            "Nên sử dụng VPN để đảm bảo an toàn bảo mật khi sử dụng mạng wifi công cộng",
-            "Phần mềm diệt virus là lớp lá chắn quan trọng bảo vệ người sử dụng khỏi các mã độc và virus. Do đó, cần có chương trình diệt virus để bảo vệ người dùng ngay trong các hoạt động đầu tiên của người sử dụng trên máy tính.",
-            "Không sử dụng các mật khẩu dễ nhớ như “123456”, “abcdef”… vì đây là các mật khẩu yếu, rất dễ đoán"
         ]
     },
     {
