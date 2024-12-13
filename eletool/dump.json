@@ -3592,15 +3592,6 @@
         ]
     },
     {
-        "que": "Hãy chỉ ra các con đường có thể phát tán và lây lan của mã độc trên thiết bị di động?",
-        "ans":
-        [
-            "Qua thư điện tử",
-            "Qua việc chia sẻ tệp tin hay đường link trên mạng xã hội",
-            "Qua việc cài đặt các ứng dụng không an toàn"
-        ]
-    },
-    {
         "que": "Theo bạn có nên nhắn tin trao đổi tài liệu thông tin khách hàng, số liệu ĐHSXKD trên ứng dụng ZALO hay không ?",
         "ans":
         [
@@ -3963,15 +3954,6 @@
         ]
     },
     {
-        "que": "Hãy chỉ ra các con đường có thể phát tán và lây lan của mã độc trên thiết bị di động?",
-        "ans":
-        [
-            "Qua việc cài đặt các ứng dụng không an toàn",
-            "Qua việc chia sẻ tệp tin hay đường link trên mạng xã hội",
-            "Qua thư điện tử"
-        ]
-    },
-    {
         "que": "Các kỹ năng cần có để sử dụng mạng xã hội an toàn là gì?",
         "ans":
         [
@@ -4132,15 +4114,6 @@
             "Chỉ nên kết bạn với những người mà chúng ta quen biết trong đời thực",
             "Cân nhắc trước khi chia sẻ hình ảnh, video clip hay thông tin trên mạng xã hội",
             "Cẩn thận khi cung cấp thông tin cá nhân trên mạng xã hội"
-        ]
-    },
-    {
-        "que": "Hãy chỉ ra các con đường có thể phát tán và lây lan của mã độc trên thiết bị di động?",
-        "ans":
-        [
-            "Qua thư điện tử",
-            "Qua việc cài đặt các ứng dụng không an toàn",
-            "Qua việc chia sẻ tệp tin hay đường link trên mạng xã hội"
         ]
     },
     {
