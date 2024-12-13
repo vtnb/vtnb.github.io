@@ -1,10 +1,10 @@
 {
 	"id": "62c4f17bfebf0230ce81d1cd",
 	"name": "VNPT UNI",
-	"mainColor": "0080ff",
-	"secondaryColor": "ff9f43",
+	"mainColor": "025ce8",
+	"secondaryColor": "0080ff",
 	"xTenantId": "demo.daihocso.com.vn",
-	"requiredTenant": false,
+	"requiredTenant": true,
 	"api_base_url": "https://api-stg.daihocso.com.vn/api/v1/",
 	"enableMultipleLanguage": false,
 	"enableSmartBot": false,
