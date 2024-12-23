@@ -9,8 +9,7 @@
   "enableMultipleLanguage": false,
   "enableSSO": false,
   "enableSmartBot": false,
-  "smartBotId": "cf1c58d0-e295-11ee-ab91-3306a9a9554e"
-  "aboutUrl": "",
+  "smartBotId": "cf1c58d0-e295-11ee-ab91-3306a9a9554e",
   "iosAppStore": "https://apps.apple.com/vn/app/id6739246327?platform=iphone",
   "androidGooglePlay": "https://play.google.com/store/apps/details?id=vn.vnpt.uni",
   "textTheme": "Nunito",
@@ -18,5 +17,5 @@
   "telegramBotToken": "6739267758:AAHf6_rfPEUXVDL75vUKT-rAND24w6zPK-A",
   "logo": "https://img.upanh.tv/2024/12/10/hluv.png",
   "website": "http://daihocso.com.vn/",
-  "bottomBarCenterButtonVisible": false,
+  "bottomBarCenterButtonVisible": false
 }
