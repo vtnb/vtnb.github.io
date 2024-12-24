@@ -10,6 +10,8 @@
   "enableSSO": false,
   "enableSmartBot": false,
   "smartBotId": "cf1c58d0-e295-11ee-ab91-3306a9a9554e",
+  "smartBotTokenKey": "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALk/tTS/90xt5KQAsMJv2piUih8obzhCIf8mnBB6R2XuAFMQ3knOXdN6Vnv8K91Hunq1KUxn3klXYld49V6ACQUCAwEAAQ==",
+  "smartBotTokenId": "13ab6f0f-4631-08d8-e063-62199f0ae64b",
   "iosAppStore": "https://apps.apple.com/vn/app/id6739246327?platform=iphone",
   "androidGooglePlay": "https://play.google.com/store/apps/details?id=vn.vnpt.uni",
   "textTheme": "Nunito",
