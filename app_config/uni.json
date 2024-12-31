@@ -9,7 +9,7 @@
   "enableSettingThemeColor": true,
   "enableMultipleLanguage": false,
   "enableSSO": false,
-  "enableSmartBot": false,
+  "enableSmartBot": true,
   "iosAppStore": "https://apps.apple.com/vn/app/id6739246327?platform=iphone",
   "androidGooglePlay": "https://play.google.com/store/apps/details?id=vn.vnpt.uni",
   "textTheme": "Nunito",
