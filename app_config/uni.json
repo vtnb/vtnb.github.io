@@ -6,6 +6,7 @@
   "mainColor": "0080ff",
   "secondaryColor": "ff9f43",
   "requiredTenant": true,
+  "enableSettingThemeColor": true,
   "enableMultipleLanguage": false,
   "enableSSO": false,
   "enableSmartBot": false,
