@@ -3,8 +3,8 @@
 	"showLogo": true,
 	"token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0aGFuaGxoLm5iaCIsImF1dGhvcml0aWVzIjpbXSwiaWF0IjoxNzIzODY1NTA5LCJleHAiOjE3MjM5NTE5MDl9.m3vEr1AhQJmFuVbm5kPcHSezqcoTCxZASbSysboHlg0",
 	"menuEnable": {
-		"quiz": true,
-		"vnptMoney": true,
-		"employee": true
+		"quiz": false,
+		"vnptMoney": false,
+		"employee": false
 	}
 }
