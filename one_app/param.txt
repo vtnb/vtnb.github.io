@@ -7,7 +7,7 @@
         "quiz": false,
         "vnptMoney": false,
         "employee": false,
-        "nhaTram": false,
+        "nhaTram": true,
         "chamCong": false,
         "nhatKy": false
     }
