@@ -4,7 +4,7 @@
     "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0aGFuaGxoLm5iaCIsImF1dGhvcml0aWVzIjpbXSwiaWF0IjoxNzIzODY1NTA5LCJleHAiOjE3MjM5NTE5MDl9.m3vEr1AhQJmFuVbm5kPcHSezqcoTCxZASbSysboHlg0",
     "menuEnable":
     {
-        "quiz": true,
+        "quiz": false,
         "vnptMoney": true,
         "employee": true,
         "nhaTram": true,
