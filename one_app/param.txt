@@ -8,7 +8,7 @@
         "vnptMoney": true,
         "employee": true,
         "nhaTram": true,
-        "chamCong": false,
+        "chamCong": true,
         "nhatKy": false
     }
 }
