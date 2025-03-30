@@ -5,10 +5,10 @@
     "menuEnable":
     {
         "quiz": false,
-        "vnptMoney": true,
-        "employee": true,
+        "vnptMoney": false,
+        "employee": false,
         "nhaTram": true,
-        "chamCong": true,
+        "chamCong": false,
         "nhatKy": false
     }
 }
