@@ -10,6 +10,8 @@
   "enableMultipleLanguage": false,
   "enableSSO": false,
   "enableSmartBot": false,
+  "isMultipleTeacherClasses": false,
+  "showFullClassInfo": true,
   "canAssignTeacher": false,
   "usingCategoriesService": true,
   "iosAppStore": "https://apps.apple.com/vn/app/id6739246327?platform=iphone",
