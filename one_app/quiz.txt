@@ -1,3 +1,4 @@
 {
-  "enablePublicHost": false
+  "appInHouse": true,
+  "enableAppInHouseSwitch": false
 }
