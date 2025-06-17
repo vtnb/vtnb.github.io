@@ -3728,5 +3728,37 @@
             "Hạn chế việc chia sẻ mật khẩu wifi",
             "Luôn ý thức việc sử dụng wifi công cộng như wifi ở các quán cafe, sân bay, phố đi bộ… là không đảm bảo an toàn. \nNếu buộc phải sử dụng wifi công cộng thì chỉ sử dụng wifi yêu cầu xác thực và không thực hiện các tác vụ quan trọng như thực hiện giao dịch trực tuyến…"
         ]
+    },
+    {
+        "que": "Theo Anh/Chị, những thông tin nào không nên chia sẻ trên mạng xã hội",
+        "ans": [
+            "Phát biểu, chỉ trích về các chủ đề nhạy cảm",
+            "Địa chỉ nhà riêng hoặc trường học",
+            "Số điện thoại cá nhân"
+        ]
+    },
+    {
+        "que": "Bạn nhận được điện thoại từ con bạn báo có công nhân đến nhà để sửa mạng truy wifi cập internet. Bạn nên làm gì ?",
+        "ans": [
+            "Sẽ chủ động liên hệ với người công nhân để hẹn lại 1 ngày khác hoặc bảo con bạn báo người công nhân liên hệ lại sau."
+        ]
+    },
+    {
+        "que": "Để phòng tránh là nạn nhân của các cuộc lừa đảo “khóa SIM” vì chưa chuẩn hóa thuê bao, người dùng nên",
+        "ans": [
+            "Chủ động kiểm tra thông tin đã chuẩn hóa hay chưa thông qua các công cụ, hướng dẫn từ nhà mạng.",
+            "Có thể truy cập vào các trang web hoặc gọi điện đến tổng đài chăm sóc khách hàng của doanh nghiệp di động để được hỗ trợ, hướng dẫn.",
+            "Chỉ thực hiện theo các thông báo cập nhật, chuẩn hóa thông tin từ các kênh chính thức của các doanh nghiệp viễn thông di động sử dụng cho mục đích nhắn tin, gọi điện thông báo đề nghị chuẩn hóa thông tin thuê bao.",
+            "Đối với các thuê bao đã bị khóa hai chiều, bạn phải đến trực tiếp các điểm giao dịch của các nhà mạng để thực hiện chuẩn hóa và mở khóa liên lạc lại."
+        ]
+    },
+    {
+        "que": "Lợi ích của việc cai nghiện mạng xã hội là gì?",
+        "ans": [
+            "Có nhiều thời gian để rèn luyện thể thao",
+            "Sức khỏe tinh thần tốt hơn",
+            "Có nhiều thời gian dành cho gia đình và người thân",
+            "Cải thiện kết quả học tập và làm việc"
+        ]
     }
 ]
