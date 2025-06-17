@@ -902,6 +902,14 @@
         ]
     },
     {
+        "que": "Khái niệm tiền ảo (Crypto-currency) là gì?",
+        "ans": [
+            "Tiền ảo được lưu trữ, giao dịch qua các phần mềm và ứng dụng được chỉ định ở dạng kỹ thuật số.",
+            "Là một dạng tiền kĩ thuật số được giao dịch trên nền tảng online, chỉ tồn tại dưới dạng điện tử, gồm nhiều loại tiền tệ, có loại tiền mã hóa.",
+            "Tiền ảo không được kiểm soát và không được phát hành hoặc kiểm soát bởi một ngân hàng trung ương."
+        ]
+    },
+    {
         "que": "Đối với mạng xã hội facebook, trong các đáp án bên dưới, đâu là cách không đảm bảo an toàn bảo mật cho người dùng?",
         "ans": [
             "Duy trì chế độ đăng nhập thường xuyên của tài khoản facebook"
