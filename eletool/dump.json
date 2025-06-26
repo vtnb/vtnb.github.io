@@ -24,6 +24,19 @@
         ]
     },
     {
+        "que": "Thiết lập tắt cookies trên trình duyệt web giúp ngăn chặn nguy cơ mất thông tin nào?",
+        "ans": [
+            "Username và Password"
+        ]
+    },
+    {
+        "que": "Bạn lướt mạng xã hội và đọc được các bài viết chia sẻ trên các hội nhóm mô tả các trường hợp khó khăn, hoàn cảnh thương tâm, gặp tai nạn điều trị tại bệnh viện không có kinh phí điều trị… đính kèm số tài khoản nhận giúp đỡ. Bên dưới các bài viết, chia sẻ có nhiều tài khoản bình luận bày tỏ muốn giúp đỡ, đã chuyển khoản hỗ trợ… Cá nhân bạn nên nhận định các trường hợp này như thế nào?",
+        "ans": [
+            "Bên dưới các bài viết, chia sẻ có thể là các tài khoản ảo vào bình luận bày tỏ muốn giúp đỡ, đã chuyển khoản hỗ trợ… nhằm lừa những người có tấm lòng nhân ái.",
+            "Cần phải xác minh nguồn thông tin ví dụ như liên hệ với Phòng Công tác xã hội của bệnh viện được cho là có hoàn cảnh trên. Các Phòng Công tác xã hội sẽ có chức năng xác minh hoàn cảnh, chi phí điều trị và kết nối nhà hảo tâm giúp đỡ các bệnh nhân có hoàn cảnh khó khăn. Chỉ giúp đỡ khi đã xác minh nguồn thông tin là chính xác và chỉ chuyển khoản đến các tài khoản đáng tin cậy."
+        ]
+    },
+    {
         "que": "Đâu là những dấu hiệu của các trò lừa đảo trên Internet?",
         "ans": [
             "Tất cả các biểu hiện đều đúng"
