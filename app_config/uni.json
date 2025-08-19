@@ -9,7 +9,7 @@
   "enableSettingThemeColor": true,
   "enableMultipleLanguage": false,
   "enableSSO": false,
-  "enableSmartBot": false,
+  "enableSmartBot": true,
   "isMultipleTeacherClasses": false,
   "showFullClassInfo": true,
   "canAssignTeacher": false,
