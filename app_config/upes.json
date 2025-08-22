@@ -1,0 +1,23 @@
+{
+  "id": "62c4f17bfebf0230ce81d1cd",
+  "name": "UPES",
+  "code": "qldtsv.upes.edu.vn",
+  "fixedTenantID": "qldtsv.upes.edu.vn",
+  "mainColor": "15955d",
+  "secondaryColor": "38d38f",
+  "requiredTenant": false,
+  "enableProfileFileScan": true,
+  "enableSettingThemeColor": false,
+  "enableMultipleLanguage": false,
+  "enableSSO": false,
+  "enableSmartBot": false,
+  "canAssignTeacher": false,
+  "usingCategoriesService": true,
+  "iosAppStore": "https://apps.apple.com/vn/app/id6739246327?platform=iphone",
+  "androidGooglePlay": "https://play.google.com/store/apps/details?id=vn.vnpt.uni.upes",
+  "textTheme": "Nunito",
+  "telegramBotGroupId": -4569134079,
+  "logo": "https://i.ibb.co/q0qgfsC/app-icon.png",
+  "website": "https://upes.edu.vn/",
+  "bottomBarCenterButtonVisible": false
+}
