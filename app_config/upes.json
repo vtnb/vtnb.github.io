@@ -19,5 +19,7 @@
   "telegramBotGroupId": -4569134079,
   "logo": "https://i.ibb.co/q0qgfsC/app-icon.png",
   "website": "https://upes.edu.vn/",
-  "bottomBarCenterButtonVisible": false
+  "bottomBarCenterButtonVisible": false,
+  "className": "Lớp sinh viên",
+  "creditClassName": "Lớp học phần"
 }
