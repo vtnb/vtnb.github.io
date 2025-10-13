@@ -21,5 +21,7 @@
   "website": "https://upes.edu.vn/",
   "bottomBarCenterButtonVisible": false,
   "className": "Lớp sinh viên",
-  "creditClassName": "Lớp học phần"
+  "creditClassName": "Lớp học phần",   
+  "visibleCourseName": false,
+  "visibleClassName": true
 }
