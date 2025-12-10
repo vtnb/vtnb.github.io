@@ -4,6 +4,8 @@
 
 ![Demo Screenshot](image/image.png)
 
+Fork from [codetoanbug/nuoianhem](https://github.com/codetoanbug/nuoianhem)
+
 ## 😭 Cái quái gì đây?
 
 Chào mừng đến với **Nuôi Dev** - game nuôi thú ảo cách mạng nhất, thay vì cho gái anime ăn, giờ bạn phải cho... dev ăn (nghĩa là mấy thằng bro). Vì bình đẳng giới mà, hiểu chưa?
