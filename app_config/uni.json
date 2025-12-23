@@ -15,7 +15,7 @@
   "enableMultipleLanguage": false,
   "checkCreditClassAttendedDate": false,
   "enableSSO": false,
-  "enableSmartBot": false,
+  "enableSmartBot": true,
   "canAssignTeacher": false,
   "isMultipleTeacherClasses": false,
   "usingCategoriesService": true,
