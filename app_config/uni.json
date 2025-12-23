@@ -29,6 +29,6 @@
   "className": "Lớp cố định",
   "creditClassName": "Lớp độc lập",  
   "visibleStudentSummary": true,
-  "visibleCourseName": false,
+  "visibleCourseName": true,
   "visibleClassName": true
 }
