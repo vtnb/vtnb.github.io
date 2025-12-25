@@ -23,5 +23,6 @@
   "className": "Lớp sinh viên",
   "creditClassName": "Lớp học phần",   
   "visibleCourseName": false,
-  "visibleClassName": true
+  "visibleClassName": true,
+  "absentType": "UPES"
 }
