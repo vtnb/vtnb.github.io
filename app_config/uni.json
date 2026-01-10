@@ -3,6 +3,8 @@
   "name": "VNPT UNI",
   "code": "demo.daihocso.com.vn",
   "fixedTenantID": "demo.daihocso.com.vn",
+  "devBaseUrl": "https://api-stg.daihocso.com.vn/api/v1/",
+  "prodBaseUrl": "https://api-stg.daihocso.com.vn/api/v1/",
   "studentName": "sinh viên",
   "absentNote": "Lý do",
   "mainColor": "0080ff",
