@@ -9,7 +9,7 @@
   "secondaryColor": "ff9f43",
   "studentName": "học viên",
   "requiredTenant": false,
-  "availableStudentSubject": true,
+  "availableStudentSubject": false,
   "enableSettingThemeColor": true,
   "enableMultipleLanguage": false,
   "enableSSO": false,
