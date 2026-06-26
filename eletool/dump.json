@@ -4366,14 +4366,6 @@
         ]
     },
     {
-        "que": "Bạn nhận định như thế nào về các dịch vụ lấy lại tiền khi đã bị lừa tràn lan trên mạng xã hội ngày nay?",
-        "ans":
-        [
-            "Đây là hình thức lừa đảo đánh vào tâm lý hoang mang của những người vừa bị lừa đảo qua mạng, kẻ xấu lại cung cấp dịch vụ lấy lại tiền bị lừa để tiếp tục chiếm đoạt tài sản nạn nhân.",
-            "Các đối tượng xấu xây dựng một nhân vật tin tưởng và đáng tin cậy thông qua việc tạo các hồ sơ giả, trang web giả hoặc tài liệu giả như đóng vai luật sư, nhân viên ngân hàng, kỹ sư công nghệ thông tin...cung cấp \"dịch vụ hỗ trợ lấy lại tiền bị lừa\" nhưng thực chất là để đưa nạn nhân \"vào tròng\" thêm một lần nữa"
-        ]
-    },
-    {
         "que": "Một nhân viên tự tải phần mềm chỉnh sửa ảnh miễn phí (bẻ khóa/crack) trên mạng về máy tính của Tập đoàn để phục vụ công việc. Sau khi cài đặt, hệ thống ghi nhận máy tính này âm thầm gửi lượng lớn dữ liệu ra ngoài Internet vào ban đêm. Điều này phản ánh sự cố gì?",
         "ans":
         [
@@ -4392,13 +4384,6 @@
         "ans":
         [
             "Thực hiện cài đặt ngay các bản cập nhật phần mềm (Update) và khởi động lại máy theo yêu cầu của hệ thống"
-        ]
-    },
-    {
-        "que": "Tự nhiên bạn nhìn thấy trang web này nổi lên trên trình duyệt. Vậy bạn có nên tham gia vào để lấy quà hay không?",
-        "ans":
-        [
-            "Không"
         ]
     },
     {
@@ -4483,13 +4468,6 @@
         ]
     },
     {
-        "que": "Bạn đang sử dụng Facebook và nhận được tin nhắn từ bạn bè với nội dung như hình sau, bạn sẽ làm gì tiếp theo:",
-        "ans":
-        [
-            "Bạn không làm gì cả, nếu thật sự người thân cần chuyển tiền sẽ gọi điện thoại để nói chuyện trực tiếp."
-        ]
-    },
-    {
         "que": "Bạn nhận được email sau có nội dung This message was sent from a trusted sender. Điều này có nghĩa là bạn có thể tin rằng email này là hợp pháp?",
         "ans":
         [
@@ -4566,6 +4544,633 @@
             "Viết mật khẩu ra giấy nhớ (sticky note) và dán ngay dưới bàn phím/màn hình.",
             "Đọc mã OTP cho người khác (kể cả người tự xưng là IT hay công an).",
             "Dùng chung một mật khẩu cho nhiều tài khoản khác nhau (ví dụ: pass email công ty giống hệt pass Facebook cá nhân)."
+        ]
+    },
+    {
+        "que": "Trong trường hợp đồng nghiệp quên thẻ ra vào, bạn nên cho họ mượn thẻ cá nhân của mình để ra vào văn phòng?",
+        "ans":
+        [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Hãy lựa chọn các dấu hiệu nhận biết của các cuộc lừa đảo “khóa SIM” vì chưa chuẩn hóa thuê bao?",
+        "ans":
+        [
+            "Các đối tượng mạo danh là cán bộ, nhân viên của cơ quan quản lý Nhà nước hoặc nhà mạng gọi điện và thông báo số điện thoại của người sử dụng sẽ bị khóa 2 chiều trong 2 tiếng với các lý do như “chưa nộp phạt”, “thuê bao sai thông tin”.",
+            "Đề nghị người dùng thực hiện một số bước tiếp theo như: thực hiện các cú pháp sang tên đổi chủ thông tin số điện thoại, cú pháp chuyển hướng cuộc gọi…"
+        ]
+    },
+    {
+        "que": "Đâu là các loại dữ liệu cá nhân nhạy cảm theo pháp luật Việt Nam?",
+        "ans":
+        [
+            "Quan điểm chính trị, tôn giáo.",
+            "Tình trạng sức khỏe đời tư.",
+            "Thông tin về tài khoản ngân hàng."
+        ]
+    },
+    {
+        "que": "Khi bạn dùng máy tính cá nhân ở nhà (chưa từng đăng ký với công ty) để đăng nhập vào hệ thống nội bộ, hệ thống yêu cầu bạn phải xác thực thêm qua điện thoại. Mục đích chính của việc này là gì?",
+        "ans":
+        [
+            "Để đảm bảo rằng dù kẻ gian có trộm được mật khẩu của bạn, chúng cũng không thể đăng nhập thành công từ một thiết bị lạ."
+        ]
+    },
+    {
+        "que": "Tại sao các công cụ bảo mật hiện đại (như EDR) lại hiệu quả hơn phần mềm diệt Virus truyền thống trong việc bảo vệ máy tính của nhân viên?",
+        "ans":
+        [
+            "Vì nó có khả năng phân tích các hành vi đáng ngờ và ngăn chặn kịp thời ngay cả khi đó là loại mã độc mới chưa có trong danh sách nhận diện."
+        ]
+    },
+    {
+        "que": "Nhà mạng VNPT có quyền yêu cầu khách hàng cung cấp mật khẩu ngân hàng để xác thực thông tin thuê bao.",
+        "ans":
+        [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Khi sử dụng các dịch vụ lưu trữ đám mây (như Google Drive, OneDrive), quyền Chỉ xem (Viewer/Read-only) cho phép người được chia sẻ thực hiện hành động nào?",
+        "ans":
+        [
+            "Xem nội dung và tải xuống (nếu không bị chặn)."
+        ]
+    },
+    {
+        "que": "Các hình thức xác thực bằng sinh trắc học phổ biến trên thiết bị hiện nay bao gồm những gì?",
+        "ans":
+        [
+            "Nhận diện khuôn mặt (Face ID).",
+            "Quét vân tay (Fingerprint)",
+            "Quét mống mắt."
+        ]
+    },
+    {
+        "que": "Một email lừa đảo tinh vi thường sử dụng những thủ đoạn tâm lý nào để giăng bẫy bạn?",
+        "ans":
+        [
+            "Mạo danh thương hiệu lớn hoặc giả làm sếp, đồng nghiệp của bạn.",
+            "Xây dựng kịch bản rất giống với bối cảnh công việc thực tế hàng ngày.",
+            "Tạo cảm giác hoang mang, khẩn cấp và yêu cầu bạn phải hành động ngay lập tức."
+        ]
+    },
+    {
+        "que": "Mục đích chính của kẻ lừa đảo khi điều hướng nạn nhân vào trang web giả mạo nộp phạt nguội giao thông là gì?",
+        "ans":
+        [
+            "Khi nạn nhân làm theo hướng dẫn nộp phạt và nhập thông tin thẻ cùng mã OTP, kẻ lừa đảo sẽ dùng dữ liệu này để chiếm quyền kiểm soát thẻ và rút tiền trong tài khoản."
+        ]
+    },
+    {
+        "que": "Khi điện thoại đột ngột mất sóng hoặc báo SIM không hoạt động liên tục, bạn có thể là nạn nhân của tấn công SIM Hijacking (chiếm đoạt SIM). Cách thức kẻ gian thực hiện hành vi này như thế nào?",
+        "ans":
+        [
+            "Kẻ gian giả danh nạn nhân yêu cầu nhà mạng cấp lại SIM mới để chiếm quyền nhận mã xác thực OTP và truy cập các tài khoản ngân hàng, mạng xã hội."
+        ]
+    },
+    {
+        "que": "Bạn chia sẻ file dưới dạng Anyone with the link can view. Sau đó bạn đổi quyền thành Restricted (Bị hạn chế). Điều gì xảy ra với những người đang mở file đó ngay tại thời điểm bạn đổi quyền?",
+        "ans":
+        [
+            "]Họ sẽ bị mất quyền truy cập (thường là sau khi tải lại trang hoặc hệ thống đồng bộ lại)."
+        ]
+    },
+    {
+        "que": "Một nhân viên nhặt được chiếc USB lạ ở hành lang và tò mò cắm vào máy tính làm việc. Dù người này chưa kịp bấm mở bất kỳ file nào nhưng máy tính vẫn bị nhiễm mã độc ngay lập tức. Nguyên nhân do đâu?",
+        "ans":
+        [
+            "Do mã độc được thiết kế ẩn bên trong USB và tự động kích hoạt (AutoRun) ngay khi có kết nối với máy tính."
+        ]
+    },
+    {
+        "que": "Khi làm việc từ xa, biện pháp nào sau đây giúp bảo vệ tài khoản làm việc của bạn an toàn nhất ngay cả trong trường hợp bạn vô tình để lộ mật khẩu?",
+        "ans":
+        [
+            "Bật tính năng Xác thực đa yếu tố / Xác thực 2 bước (ví dụ: yêu cầu nhập thêm mã OTP trên điện thoại)."
+        ]
+    },
+    {
+        "que": "Những vật dụng nào sau đây tuyệt đối KHÔNG NÊN để tơ hơ trên bàn làm việc khi bạn đi vắng?",
+        "ans":
+        [
+            "Thẻ ra vào/Thẻ nhân viên.",
+            "Mảnh giấy nhớ (sticky note) có ghi mật khẩu máy tính",
+            "Hợp đồng có chữ ký của đối tác/khách hàng."
+        ]
+    },
+    {
+        "que": "Hành động nào sau đây là KHÔNG an toàn khi bạn nhận được một đường link lạ gửi qua Zalo/Email?",
+        "ans":
+        [
+            "Bấm thử vào link xem nội dung là gì, nếu thấy khả nghi thì tắt trình duyệt ngay"
+        ]
+    },
+    {
+        "que": "Quan điểm: Khi sử dụng Wi-Fi công cộng (quán cà phê, sân bay...), nếu chỉ đọc email hoặc xem tin tức thì không gặp rủi ro bị đánh cắp thông tin bảo mật. Quan điểm này Đúng hay Sai?",
+        "ans":
+        [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Kẻ xấu có thể giả mạo số điện thoại của cơ quan công an hoặc tổng đài để gọi điện lừa đảo.",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Khi phát hiện điện thoại của mình có dấu hiệu bị lây nhiễm mã độc (máy nóng ran, pin hao nhanh, tự động cài ứng dụng lạ sau khi ấn vào link giả mạo cơ quan nhà nước), anh Quang hoảng sợ và lập tức mở ứng dụng (App) ngân hàng trên chính chiếc điện thoại đó để chuyển toàn bộ số dư sang tài khoản của vợ nhằm bảo vệ tài sản. Bạn có đánh giá thế nào về hành động của anh Quang?",
+        "ans":
+        [
+            "Đây là hành động sai lầm và cực kỳ nguy hiểm. Việc mở ứng dụng ngân hàng lúc này sẽ vô tình cung cấp trực tiếp tài khoản, mật khẩu và mã OTP cho kẻ gian vì mã độc đang theo dõi toàn bộ thao tác trên màn hình từ xa."
+        ]
+    },
+    {
+        "que": "Khi phát hiện máy tính bỗng nhiên hoạt động chậm bất thường và xuất hiện nhiều cửa sổ lạ, hành động đầu tiên bạn nên làm là gì?.",
+        "ans":
+        [
+            "Lập tức ngắt kết nối mạng (Rút dây cáp mạng hoặc tắt Wifi) của máy tính và báo cho bộ phận IT của đơn vị."
+        ]
+    },
+    {
+        "que": "Hình thức lừa đảo giả mạo (Phishing) chỉ xảy ra qua đường Email, kẻ gian không thể thực hiện thủ đoạn này qua tin nhắn SMS, Zalo hay Facebook?",
+        "ans":
+        [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Khi bạn đang làm việc, bỗng nhiên hệ thống bảo mật hiện thông báo: Phát hiện hành vi đáng ngờ - Đã ngăn chặn một kết nối độc hại. Bạn nên làm gì để đảm bảo an toàn nhất cho đơn vị?",
+        "ans":
+        [
+            "Giữ nguyên hiện trạng máy tính và báo ngay cho bộ phận IT/An toàn thông tin để họ kiểm tra kỹ hơn."
+        ]
+    },
+    {
+        "que": "Việc bạn vô tình đính kèm và gửi nhầm một báo cáo tài chính nội bộ cho đối tác/khách hàng qua email được gọi là sự cố gì?",
+        "ans":
+        [
+            "Lây nhiễm mã độc (Malware).",
+            "Lỗi đường truyền hệ thống mạng",
+            "Tấn công lừa đảo (Phishing).",
+            "Thất thoát, rò rỉ dữ liệu (Data leakage)"
+        ]
+    },
+    {
+        "que": "Trong các tài liệu sau của Tập đoàn, tài liệu nào được xếp vào nhóm Dữ liệu công khai (Public)?",
+        "ans":
+        [
+            "Tài liệu giới thiệu sản phẩm, tờ rơi quảng cáo (Brochure) đã được phát hành rộng rãi."
+        ]
+    },
+    {
+        "que": "Việc nhân viên trì hoãn hoặc phớt lờ thông báo cập nhật hệ điều hành có thể dẫn đến hậu quả nguy hiểm nhất nào sau đây?",
+        "ans":
+        [
+            "Máy tính bị tin tặc khai thác lỗ hổng bảo mật để xâm nhập, chiếm quyền điều khiển và đánh cắp dữ liệu của Tập đoàn."
+        ]
+    },
+    {
+        "que": "Phishing thường là bước đầu của nhiều cuộc tấn công mạng",
+        "ans":
+        [
+            "Sai",
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Trong quy trình xử lý sự cố vì sao nhân viên được yêu cầu phải Cô lập ngắt kết nối mạng ngay lập tức khi phát hiện máy tính bị nhiễm virus",
+        "ans":
+        [
+            "Để thu thập bằng chứng báo công an",
+            "Để khoanh vùng ngăn chặn không cho mã độc lây lan sang các hệ thống máy chủ khác của Tập đoàn",
+            "Để phần mềm diệt virus có thời gian hoạt động",
+            "Để truy tìm xem ai là người đã phát tán virus"
+        ]
+    },
+    {
+        "que": "Mục đích chính của việc phân loại tài liệu thành các mức Công khai Nội bộ Mật là để Tập đoàn có thể áp dụng các biện pháp bảo mật tương xứng tránh lãng phí tài nguyên nhưng vẫn đảm bảo an toàn tuyệt đối cho các thông tin quan trọng",
+        "ans":
+        [
+            "Đúng",
+            "Sai"
+        ]
+    },
+    {
+        "que": "Bạn nhận được một tin nhắn SMS từ số lạ mạo danh VNPT với nội dung Số điểm thưởng của quý khách 6623 sẽ hết hạn vào hôm nay Hãy đổi điểm trước khi hết hạn tại rewardVnptcom Hành động nào sau đây là an toàn nhất",
+        "ans":
+        [
+            "Nhắn tin phản hồi lại số điện thoại đó để hỏi rõ cách thức nhận thưởng",
+            "Bấm ngay vào liên kết rewardVnptcom để kiểm tra xem mình có được đổi quà hay không tránh mất quyền lợi",
+            "Chia sẻ tin nhắn này cho người thân cùng bấm vào link để đổi điểm thưởng",
+            "Tuyệt đối không bấm vào liên kết lạ chủ động kiểm tra hoặc xác minh lại thông tin qua các kênh chính thức của VNPT"
+        ]
+    },
+    {
+        "que": "Khi bạn chia sẻ một Thư mục Folder với quyền Chỉ xem” Viewer người nhận có thể thêm tệp mới vào thư mục đó",
+        "ans":
+        [
+            "Đúng",
+            "Sai"
+        ]
+    },
+    {
+        "que": "Việc sử dụng thiết bị lưu trữ ngoài USB cá nhân ổ cứng di động cắm vào máy tính làm việc của đơn vị có thể gây ra những rủi ro an toàn thông tin nghiêm trọng nào",
+        "ans":
+        [
+            "Lây nhiễm mã độc virus vào hệ thống mạng nội bộ",
+            "Gây thất thoát rò rỉ dữ liệu quan trọng của Tập đoàn ra bên ngoài",
+            "Làm hỏng màn hình máy tính",
+            "Làm giảm tốc độ mạng Wifi"
+        ]
+    },
+    {
+        "que": "Bạn đang không làm việc nhưng điện thoại liên tục nhận được hàng loạt thông báo yêu cầu Xác nhận đăng nhập Mã OTPApprove Bản chất của sự việc này là gì và bạn nên làm gì",
+        "ans":
+        [
+            "Hacker đã biết mật khẩu của bạn và đang cố tình gửi yêu cầu liên tục để làm bạn mệt mỏi bấm nhầm nút Đồng ý Tuyệt đối không bấm đồng ý và báo ngay cho bộ phận IT nếu đó là tài khoản công việc",
+            "Mạng Internet nhà bạn bị chậm",
+            "Hệ thống công ty đang yêu cầu đổi mật khẩu định kỳ bạn cứ bấm Đồng ý cho xong",
+            "Máy chủ bị lỗi mạng bỏ qua không cần quan tâm"
+        ]
+    },
+    {
+        "que": "Nhiều nhân viên có thói quen cho đồng nghiệp mượn tài khoản làm việc của mình để xử lý công việc cho nhanh Rủi ro lớn nhất của hành vi vi phạm này đối với tổ chức là gì",
+        "ans":
+        [
+            "Hoàn toàn không có rủi ro gì",
+            "Khi xảy ra sự cố rò rỉ dữ liệu hoặc xóa nhầm file hệ thống sẽ không thể xác định chính xác ai là người thực sự đã làm việc đó để quy trách nhiệm",
+            "Làm máy tính chạy chậm đi",
+            "Làm giảm tốc độ mạng Wifi của công ty"
+        ]
+    },
+    {
+        "que": "Khi bạn chia sẻ một tài liệu và đặt quyền truy cập là Bất kỳ ai có liên kết Public access  Anyone with the link điều này có nghĩa là gì",
+        "ans":
+        [
+            "Hệ thống sẽ tự động khóa file để bảo mật",
+            "Chỉ có Quản trị viên Admin mạng mới xem được",
+            "Bất kỳ ai trên Internet có được đường link này đều có thể mở và xem tài liệu",
+            "Chỉ nhân viên nội bộ có tài khoản nội bộ mới xem được"
+        ]
+    },
+    {
+        "que": "Nhà mạng VNPT có quyền yêu cầu khách hàng cung cấp mật khẩu ngân hàng để xác thực thông tin thuê bao",
+        "ans":
+        [
+            "Đúng",
+            "Sai"
+        ]
+    },
+    {
+        "que": "Khi một số điện thoại lạ tự xưng là công an gọi đến yêu cầu bạn phối hợp chuẩn hóa thông tin thuê bao vì số của bạn liên quan đến vụ án bạn nên",
+        "ans":
+        [
+            "Cung cấp thông tin tài khoản ngân hàng để họ kiểm tra sự trong sạch",
+            "Yêu cầu họ gửi giấy mời làm việc chính thức hoặc đến trực tiếp trụ sở công an để làm việc",
+            "Hoảng sợ và làm theo mọi yêu cầu vì sợ bị bắt",
+            "Nhờ họ thực hiện chuẩn hóa giúp mình luôn qua điện thoại"
+        ]
+    },
+    {
+        "que": "Một quy trình chuẩn để quản lý quyền truy cập dữ liệu an toàn trong đơn vị thường bao gồm các bước nào",
+        "ans":
+        [
+            "Cấp quyền truy cập đúng theo chức năng nhiệm vụ",
+            "Thường xuyên kiểm tra rà soát lại phân quyền",
+            "Thu hồi quyền ngay khi nhân viên chuyển phòng ban hoặc nghỉ việc",
+            "Tắt hệ thống lưu trữ lịch sử truy cập để tiết kiệm dung lượng"
+        ]
+    },
+    {
+        "que": "Bạn nhận được lời mời sử dụng dịch vụ theo dõi đọc trộm tin nhắn của người khác trên mạng xã hội Bạn nhận định về sự việc này như thế nào",
+        "ans":
+        [
+            "Tuyệt đối không sử dụng các dịch vụ hoặc ứng dụng có mục đích xâm phạm quyền riêng tư của người khác Hành vi đọc trộm tin nhắn không chỉ là vi phạm pháp luật mà còn là vi phạm nghiêm trọng đạo đức xã hội Việc xâm phạm quyền riêng tư có thể gây ra tổn thương tâm lý làm mất lòng tin giữa các cá nhân",
+            "Bạn đang có nhu cầu tìm hiểu xem vợchồngngười thân giá cả dịch vụ lại phải chăng nên bạn sẽ không ngần ngại mà thực hiện theo các yêu cầu của bên cung cấp dịch vụ như chuyển tiền…",
+            "Tất cả các đáp án đều đúng"
+        ]
+    },
+    {
+        "que": "Khi bật tính năng Xác thực hai bướcnhiều bước cho tài khoản ngoài mật khẩu bạn có thể dùng thêm những phương thức nào dưới đây để chứng minh danh tính",
+        "ans":
+        [
+            "Mã OTP gửi qua tin nhắn SMS hoặc ứng dụng tạo mã",
+            "Sinh trắc học Vân tay Nhận diện khuôn mặt",
+            "Sử dụng Chìa khóa bảo mật vật lý USB Token",
+            "Tên đăng nhập Username"
+        ]
+    },
+    {
+        "que": "Đâu là dấu hiệu nhận diện các cuộc gọi video Deepfake",
+        "ans":
+        [
+            "Thời gian gọi thường rất ngắn chỉ vài giây Ngắt giữa chừng bảo là mất sóng sóng yếu…",
+            "Khuôn mặt thiếu tính cảm xúc và khá trơ khi nói hoặc tư thế trông lúng túng không tự nhiên hoặc là hướng đầu và cơ thể trong video không nhất quán với nhau",
+            "Màu da của nhân vật trong video bất thường ánh sáng kỳ lạ và bóng đổ không đúng vị trí Điều này có thể khiến cho video trông rất giả tạo và không tự nhiên",
+            "Âm thanh sẽ không đồng nhất với hình ảnh có nhiều tiếng ồn bị lạc vào clip hoặc clip không có âm thanh",
+            "Yêu cầu chuyển tiền mà tài khoản chuyển tiền không phải của người đang thực hiện cuộc gọi"
+        ]
+    },
+    {
+        "que": "Khi nhận được cuộc điện thoại từ người tự xưng là Công an hoặc Nhân viên VNPT yêu cầu bạn cung cấp mã OTP để xác minh tài khoản bạn nên làm gì",
+        "ans":
+        [
+            "Từ chối cung cấp và cúp máy ngay vì nhân viên hợp pháp không bao giờ yêu cầu mã OTP",
+            "Đọc mã OTP nhưng tuyệt đối không đọc mật khẩu",
+            "Cung cấp ngay để thể hiện sự hợp tác",
+            "Chuyển máy cho đồng nghiệp nghe hộ"
+        ]
+    },
+    {
+        "que": "Các hình thức xác thực bằng sinh trắc học phổ biến trên thiết bị hiện nay bao gồm những gì",
+        "ans":
+        [
+            "Nhận diện khuôn mặt Face ID",
+            "Quét vân tay Fingerprint",
+            "Quét mống mắt",
+            "Nhập mã PIN"
+        ]
+    },
+    {
+        "que": "Trong hoạt động xử lý dữ liệu cá nhân tại VNPT hành vi nào dưới đây được coi là vi phạm pháp luật",
+        "ans":
+        [
+            "Thu thập dữ liệu cá nhân để phục vụ mục đích đã thông báo cho khách hàng",
+            "Lưu trữ dữ liệu khách hàng trong hệ thống máy chủ có bảo mật",
+            "Tự ý mua bán chuyển giao dữ liệu cá nhân của khách hàng khi chưa có sự đồng ý của họ",
+            "Cung cấp dữ liệu cá nhân cho cơ quan Công an khi có yêu cầu bằng văn bản đúng thẩm quyền"
+        ]
+    },
+    {
+        "que": "Việc vô tư đeo thẻ nhân viên Tập đoàn khi đi ăn trưa tại quán xá hoặc trên các phương tiện công cộng là một thói quen tiềm ẩn rủi ro tạo cơ hội cho kẻ gian chụp lén để thu thập thông tin hoặc làm giả thẻ",
+        "ans":
+        [
+            "Đúng",
+            "Sai"
+        ]
+    },
+    {
+        "que": "Những nguy cơ nào có thể xảy ra từ việc sử dụng máy inphotocopy dùng chung",
+        "ans":
+        [
+            "Người không có thẩm quyền đi ngang qua vô tình đọc được hoặc lấy nhầm tài liệu mật",
+            "Tờ giấy bị kẹt chứa thông tin không được thu hồi hoặc tiêu hủy đúng cách sau khi xử lý sự cố kẹt giấy",
+            "Máy in có thể bị lây nhiễm mã độc qua mạng nội bộ",
+            "Dữ liệu tài liệu vẫn còn lưu lại trong bộ nhớ tạm ổ cứng của máy inphotocopy"
+        ]
+    },
+    {
+        "que": "Bạn đang soạn thảo một báo cáo chiến lược kinh doanh của đơn vị để trình Ban Giám đốc Bạn nên thực hiện thao tác nào sau đây để tuân thủ quy định về phân loại dữ liệu",
+        "ans":
+        [
+            "Không cần làm gì máy tính sẽ tự động nhận biết đây là tài liệu mật",
+            "Lưu tên tài liệu bằng tiếng Anh để người ngoài không đọc hiểu được",
+            "Đổi phần mở rộng của tệp tin từ docx sang jpg để giấu nội dung",
+            "Đóng dấu watermark hoặc chèn dòng chữ TÀI LIỆU MẬT  LƯU HÀNH NỘI BỘ vào tiêu đề chân trang của tài liệu"
+        ]
+    },
+    {
+        "que": "Đáp án nào đánh giá đúng bản chất cuộc hội thoại sau",
+        "ans":
+        [
+            "Đây là tin nhắn lừa đảo người dùng nhằm thu thập thông tin cho mục đích xấu",
+            "Đây là tin nhắn từ hệ thống chăm sóc khách hàng chúng ta nên cung cấp thông tin để được hưởng những lợi ích khác"
+        ]
+    },
+    {
+        "que": "Bạn nhận được 1 tin nhắn từ Vietcombank có nội dung như hình dưới Hành động nào là sai",
+        "ans":
+        [
+            "Thực hiện theo hướng dẫn của tin nhắn truy cập vào link để đổi mật khẩu",
+            "Đến ngân hàng gần nhất để yêu cầu đổi mật khẩu",
+            "Sử dụng app Vietcombank được đăng tải trên Chplay hoặc AppStore để đổi mật khẩu"
+        ]
+    },
+    {
+        "que": "Các tệp file chứa thông tin cá nhân và lịch sử giao dịch của khách hàng bắt buộc phải được gắn nhãn ở mức Mật Confidential và kiểm soát truy cập nghiêm ngặt",
+        "ans":
+        [
+            "Đúng",
+            "Sai"
+        ]
+    },
+    {
+        "que": "Bạn nhận được email từ một đối tác quen thuộc yêu cầu bấm vào link để Xem báo cáo Dù email gửi từ đúng địa chỉ đối tác vì sao đây vẫn có thể là một cái bẫy lừa đảo",
+        "ans":
+        [
+            "Vì tài khoản email của đối tác có thể đã bị hacker chiếm đoạt và lợi dụng để gửi link độc hại"
+        ]
+    },
+    {
+        "que": "Hệ thống phòng chống mã độc phần mềm diệt virus không thể ngăn chặn 100 virus mới nhất Do đó nhân viên vẫn phải luôn cảnh giác khi click vào link hoặc tải file lạ",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Một nhân viên nhặt được chiếc USB lạ ở hành lang và tò mò cắm vào máy tính làm việc Dù người này chưa kịp bấm mở bất kỳ file nào nhưng máy tính vẫn bị nhiễm mã độc ngay lập tức Nguyên nhân do đâu",
+        "ans":
+        [
+            "Do mã độc được thiết kế ẩn bên trong USB và tự động kích hoạt AutoRun ngay khi có kết nối với máy tính"
+        ]
+    },
+    {
+        "que": "Theo Luật An ninh mạng hiện hành hành động nào sau đây bị nghiêm cấm thực hiện trên không gian mạng",
+        "ans":
+        [
+            "Tổ chức hoạt động câu kết xúi giục mua chuộc lừa gạt đào tạo huấn luyện người chống Nhà nước"
+        ]
+    },
+    {
+        "que": "Tuân thủ chính sách an toàn bảo mật là trách nhiệm của ai trong tổ chức",
+        "ans":
+        [
+            "Toàn thể cán bộ nhân viên bao gồm cả Ban lãnh đạo"
+        ]
+    },
+    {
+        "que": "Bạn nhận định như thế nào về các dịch vụ lấy lại tiền khi đã bị lừa tràn lan trên mạng xã hội ngày nay",
+        "ans":
+        [
+            "Đây là hình thức lừa đảo đánh vào tâm lý hoang mang của những người vừa bị lừa đảo qua mạng kẻ xấu lại cung cấp dịch vụ lấy lại tiền bị lừa để tiếp tục chiếm đoạt tài sản nạn nhân",
+            "Các đối tượng xấu xây dựng một nhân vật tin tưởng và đáng tin cậy thông qua việc tạo các hồ sơ giả trang web giả hoặc tài liệu giả như đóng vai luật sư nhân viên ngân hàng kỹ sư công nghệ thông tincung cấp dịch vụ hỗ trợ lấy lại tiền bị lừa nhưng thực chất là để đưa nạn nhân vào tròng thêm một lần nữa"
+        ]
+    },
+    {
+        "que": "Mục đích chính của kẻ gian khi thực hiện các chiến dịch Lừa đảo giả mạo (Phishing) nhắm vào nhân viên đơn vị thường là gì?",
+        "ans":
+        [
+            "ừa người dùng cung cấp thông tin nhạy cảm như mật khẩu, mã OTP hoặc thẻ tín dụng."
+        ]
+    },
+    {
+        "que": "Khi bạn đăng nhập tài khoản công ty trên một thiết bị lạ, tại sao hệ thống lại yêu cầu thêm mã OTP dù bạn đã nhập đúng mật khẩu?",
+        "ans":
+        [
+            "Để xác minh chính chủ và ngăn chặn kẻ gian đăng nhập trái phép bằng mật khẩu đánh cắp được."
+        ]
+    },
+    {
+        "que": "Mặc dù một Email có đính kèm đầy đủ Logo và Chữ ký chuẩn của Ban Giám đốc Tập đoàn, bạn VẪN PHẢI nghi ngờ đó là email lừa đảo nếu xuất hiện dấu hiệu nào sau đây?",
+        "ans":
+        [
+            "Nội dung email dọa dẫm sẽ sa thải hoặc khóa tài khoản nếu bạn không click vào link ngay lập tức.",
+            "Địa chỉ email thực sự gửi đi có dấu hiệu lạ (ví dụ: Giamdoc-VNPTgmail.com thay vì vnpt.vn).",
+            "Email yêu cầu bạn phải nhập mật khẩu công việc vào một biểu mẫu không rõ nguồn gốc."
+        ]
+    },
+    {
+        "que": "Mọi nhân viên (không chỉ IT) đều có trách nhiệm báo cáo các dấu hiệu bất thường (như nhận được email lừa đảo - phishing).",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Trong bảo mật dữ liệu, nguyên tắc Cấp quyền tối thiểu có nghĩa là nhân viên chỉ được cấp quyền truy cập vào các dữ liệu, hệ thống vừa đủ để hoàn thành công việc của mình, tuyệt đối không cấp dư thừa.",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Người nhận cuộc gọi Deepfake rất khó phân biệt thật giả và sập bẫy lừa đảo. Việc dùng cuộc gọi video Deepfake để lừa đảo ra sao?",
+        "ans":
+        [
+            "Các đối tượng sử dụng công nghệ trí tuệ nhân tạo (AI) để tạo ra những video hoặc hình ảnh giả, sao chép chân dung để tạo ra các đoạn video giả người thân, bạn bè để thực hiện các cuộc gọi lừa đảo trực tuyến.",
+            "Phần lớn hình thức lừa đảo trực tuyến này nhắm tới việc lừa đảo tài chính. Nên khi người dân nhận được các cuộc gọi liên quan đến các nội dung về tài chính thì nên tỉnh táo xác nhận thêm.",
+            "Nhắm vào nhiều nhóm đối tượng khác nhau, từ người cao tuổi, trẻ em, sinh viên, đến công nhân, nhân viên văn phòng thông qua phương thức chung là lấy lòng tin, đánh cắp thông tin người dùng, sau đó chiếm đoạt tài sản."
+        ]
+    },
+    {
+        "que": "Nhân viên X sử dụng máy tính công ty để tải và cài đặt một phần mềm bẻ khóa (crack) từ một trang web lạ. Hành vi này vi phạm quy tắc tuân thủ nào?",
+        "ans":
+        [
+            "Tất cả các phương án."
+        ]
+    },
+    {
+        "que": "Bạn được giao giữ chiếc chìa khóa dự phòng của kho lưu trữ tài liệu mật của đơn vị. Hành động nào sau đây là SAI quy tắc an toàn thông tin?",
+        "ans":
+        [
+            "Tự ý đi đánh thêm một bản dự phòng khác để mang về nhà hoặc cho đồng nghiệp mượn cho tiện"
+        ]
+    },
+    {
+        "que": "Việc áp dụng nguyên tắc Cấp quyền tối thiểu (chỉ cấp cho nhân viên quyền truy cập dữ liệu vừa đủ để làm việc, không cấp dư thừa) sẽ giúp công ty giảm thiểu thiệt hại nghiêm trọng nếu không may tài khoản của nhân viên đó bị tin tặc chiếm đoạt.",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Bạn nhận được cuộc gọi từ số điện thoại lạ, người gọi tự xưng là nhân viên nhà mạng và thông báo: Sim của anh/chị bị sai thông tin, sẽ bị khóa sau 2 giờ nếu không thực hiện xác thực ngay. Dấu hiệu nào sau đây cho thấy đây là một cuộc gọi lừa đảo?",
+        "ans":
+        [
+            "Tất cả các dấu hiệu trên."
+        ]
+    },
+    {
+        "que": "Một tệp (file) chứa bảng lương chi tiết của các nhân viên trong đơn vị nên được xử lý như thế nào để đảm bảo an toàn thông tin?",
+        "ans":
+        [
+            "Chỉ những người có thẩm quyền (như Kế toán, Nhân sự, Lãnh đạo) mới được phép truy cập và phải được bảo vệ bằng mật khẩu hoặc phân quyền (Dữ liệu mật)."
+        ]
+    },
+    {
+        "que": "Những hành vi nào sau đây thường bị xem là vi phạm kỷ luật nội bộ?",
+        "ans":
+        [
+            "Sử dụng tài sản công ty vào mục đích cá nhân trái phép.",
+            "Tiết lộ bí mật kinh doanh cho đối thủ cạnh tranh."
+        ]
+    },
+    {
+        "que": "thiết bị nào dưới đây được xem là thiết bị đầu cuối mà nhân viên sử dụng trực tiếp để làm việc và cần được bảo vệ nghiêm ngặt?",
+        "ans":
+        [
+            "Máy tính để bàn, Laptop làm việc."
+        ]
+    },
+    {
+        "que": "Việc nhân viên liên tục bỏ qua các thông báo yêu cầu cập nhật (Update) hệ điều hành hoặc cập nhật phần mềm diệt virus trên máy tính sẽ tạo ra lỗ hổng bảo mật, khiến thiết bị dễ bị tin tặc tấn công hơn.",
+        "ans":
+        [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Theo quy định của VNPT, tài khoản dùng chung cho nhiều người chỉ được áp dụng trong trường hợp đặc thù và phải được Lãnh đạo phê duyệt. Khi sử dụng loại tài khoản này, nguyên tắc nào sau đây là quan trọng nhất để đảm bảo an toàn?",
+        "ans":
+        [
+            "Chỉ cấp quyền cho nhân sự cần thiết và phải đổi ngay mật khẩu khi có thành viên trong nhóm luân chuyển hoặc nghỉ việc."
+        ]
+    },
+    {
+        "que": "Bạn nhận được email cảnh báo Hộp thư của bạn đã đầy và yêu cầu bạn click vào một đường link lạ để nhập mật khẩu nâng cấp dung lượng. Đây rất có thể là hình thức tấn công nào?",
+        "ans":
+        [
+            "Lừa đảo giả mạo (Phishing) để lấy cắp mật khẩu."
+        ]
+    },
+    {
+        "que": "Nếu bạn lo lắng rằng phương tiện của mình có thể thực sự bị phạt nguội, cách an toàn và chính xác nhất để kiểm tra thông tin là gì?",
+        "ans":
+        [
+            "Truy cập Trang thông tin điện tử của Cục Cảnh sát giao thông tại địa chỉ: www.csgt.vn hoặc qua Ứng dụng VNeTraffic do Cục Cảnh sát giao thông - Bộ Công an vận hành."
+        ]
+    },
+    {
+        "que": "Đối với các tài liệu được gắn nhãn Mật (Confidential) của Tập đoàn/Đơn vị, chỉ những nhân sự có thẩm quyền hoặc có nhiệm vụ liên quan trực tiếp mới được phép truy cập và xử lý.",
+        "ans":
+        [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Bạn nhận được cuộc gọi từ số máy bàn, người gọi tự xưng là cán bộ Thuế và đọc chính xác tên, số CCCD của bạn. Họ nói hồ sơ thuế của bạn bị lỗi và yêu cầu bạn tải app để quyết toán nhanh nếu không sẽ bị phạt hành chính. Bạn sẽ làm gì?",
+        "ans":
+        [
+            "Yêu cầu họ cung cấp số hiệu công tác và địa chỉ trụ sở, sau đó báo rằng mình sẽ trực tiếp đến cơ quan thuế để làm việc."
+        ]
+    },
+    {
+        "que": "Đâu là dấu hiệu nhận diện các cuộc gọi video Deepfake?",
+        "ans":
+        [
+            "Thời gian gọi thường rất ngắn, chỉ vài giây. Ngắt giữa chừng, bảo là mất sóng, sóng yếu",
+            "Khuôn mặt thiếu tính cảm xúc và khá trơ khi nói, hoặc tư thế trông lúng túng, không tự nhiên, hoặc là hướng đầu và cơ thể trong video không nhất quán với nhau.",
+            "Màu da của nhân vật trong video bất thường, ánh sáng kỳ lạ và bóng đổ không đúng vị trí. Điều này có thể khiến cho video trông rất giả tạo và không tự nhiên.",
+            "Âm thanh sẽ không đồng nhất với hình ảnh, có nhiều tiếng ồn bị lạc vào clip hoặc clip không có âm thanh.",
+            "Yêu cầu chuyển tiền mà tài khoản chuyển tiền không phải của người đang thực hiện cuộc gọi."
+        ]
+    },
+    {
+        "que": "Người tự xưng là Công an gửi cho bạn một đường link và hướng dẫn bạn vào phần Cài đặt trên điện thoại để bật tính năng Cài đặt ứng dụng từ nguồn không xác định (Install unknown apps) nhằm cài app Cổng dịch vụ công. Hành động này tiềm ẩn rủi ro gì?",
+        "ans":
+        [
+            "Mở toang cánh cửa cho mã độc xâm nhập vì ứng dụng này không được Google/Apple kiểm duyệt."
+        ]
+    },
+    {
+        "que": "Khi nhận được một tin nhắn SMS thông báo về quyền lợi hoặc cảnh báo khẩn cấp (như đổi điểm thưởng, khóa SIM, chuẩn hóa thông tin thuê bao), người dùng NÊN kiểm tra những yếu tố nào đầu tiên để xác nhận tin nhắn đó là thật hay lừa đảo?",
+        "ans":
+        [
+            "Kiểm tra tên định danh (Brandname) người gửi, cấu trúc đường link (Domain) đính kèm, và đối chiếu xem nội dung có tạo áp lực thời gian gấp gáp hoặc ép buộc cung cấp thông tin thẻ/mật khẩu hay không."
+        ]
+    },
+    {
+        "que": "Đâu là những nguyên nhân phổ biến khiến mật khẩu làm việc của bạn dễ dàng bị tin tặc đánh cắp hoặc dò ra?",
+        "ans":
+        [
+            "Đặt mật khẩu quá ngắn, quá đơn giản hoặc dễ đoán (như 123456, ngày tháng năm sinh).",
+            "Dùng chung mật khẩu công ty với các tài khoản cá nhân (Facebook, Shopee, diễn đàn).",
+            "Vô tình để thiết bị nhiễm mã độc do tải phần mềm crack, không rõ nguồn gốc."
         ]
     }
 ]
