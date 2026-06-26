@@ -4593,5 +4593,122 @@
             "Chỉ chia sẻ thông tin cho đúng những người cần biết để xử lý công việc. (Nguyên tắc Cần biết)",
             "Phân loại tài liệu rõ ràng (Công khai, Nội bộ, Mật) để có cách bảo vệ phù hợp. (Nguyên tắc Phân loại dữ liệu)"
         ]
+    },
+    {
+        "que": "Việc nhập mã xác thực OTP vào một trang web do kẻ gian cung cấp là hoàn toàn an toàn, vì mã OTP chỉ có hiệu lực trong thời gian rất ngắn và kẻ gian không thể thao tác kịp.",
+        "ans": [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Việc bạn vô tình đính kèm và gửi nhầm một báo cáo tài chính nội bộ cho đối tác/khách hàng qua email được gọi là sự cố gì?",
+        "ans": [
+            "Thất thoát, rò rỉ dữ liệu (Data leakage)"
+        ]
+    },
+    {
+        "que": "Bạn lướt mạng xã hội và đọc được các bài viết chia sẻ trên các hội nhóm mô tả các trường hợp khó khăn, hoàn cảnh thương tâm, gặp tai nạn điều trị tại bệnh viện không có kinh phí điều trị đính kèm số tài khoản nhận giúp đỡ. Bên dưới các bài viết, chia sẻ có nhiều tài khoản bình luận bày tỏ muốn giúp đỡ, đã chuyển khoản hỗ trợ Cá nhân bạn nên nhận định các trường hợp này như thế nào?",
+        "ans": [
+            "Bên dưới các bài viết, chia sẻ có thể là các tài khoản ảo vào bình luận bày tỏ muốn giúp đỡ, đã chuyển khoản hỗ trợ nhằm lừa những người có tấm lòng nhân ái.",
+            "Cần phải xác minh nguồn thông tin ví dụ như liên hệ với Phòng Công tác xã hội của bệnh viện được cho là có hoàn cảnh trên. Các Phòng Công tác xã hội sẽ có chức năng xác minh hoàn cảnh, chi phí điều trị và kết nối nhà hảo tâm giúp đỡ các bệnh nhân có hoàn cảnh khó khăn. Chỉ giúp đỡ khi đã xác minh nguồn thông tin là chính xác và chỉ chuyển khoản đến các tài khoản đáng tin cậy."
+        ]
+    },
+    {
+        "que": "Bạn nhận định như thế nào về các dịch vụ lấy lại tiền khi đã bị lừa tràn lan trên mạng xã hội ngày nay?",
+        "ans": [
+            "Đây là hình thức lừa đảo đánh vào tâm lý hoang mang của những người vừa bị lừa đảo qua mạng, kẻ xấu lại cung cấp dịch vụ lấy lại tiền bị lừa để tiếp tục chiếm đoạt tài sản nạn nhân.",
+            "Các đối tượng xấu xây dựng một nhân vật tin tưởng và đáng tin cậy thông qua việc tạo các hồ sơ giả, trang web giả hoặc tài liệu giả như đóng vai luật sư, nhân viên ngân hàng, kỹ sư công nghệ thông tin...cung cấp dịch vụ hỗ trợ lấy lại tiền bị lừa nhưng thực chất là để đưa nạn nhân vào tròng thêm một lần nữa"
+        ]
+    },
+    {
+        "que": "Theo Luật An ninh mạng hiện hành, hành động nào sau đây bị nghiêm cấm thực hiện trên không gian mạng?",
+        "ans": [
+            "Tổ chức, hoạt động, câu kết, xúi giục, mua chuộc, lừa gạt, đào tạo, huấn luyện người chống Nhà nước."
+        ]
+    },
+    {
+        "que": "Việc sử dụng thiết bị lưu trữ ngoài (USB cá nhân, ổ cứng di động) cắm vào máy tính làm việc của đơn vị có thể gây ra những rủi ro an toàn thông tin nghiêm trọng nào?",
+        "ans": [
+            "Lây nhiễm mã độc, virus vào hệ thống mạng nội bộ.",
+            "Gây thất thoát, rò rỉ dữ liệu quan trọng của Tập đoàn ra bên ngoài."
+        ]
+    },
+    {
+        "que": "Vì sao mã xác thực OTP gửi qua tin nhắn (SMS OTP) vẫn có nguy cơ bị kẻ gian chiếm đoạt?",
+        "ans": [
+            "Tất cả các phương án"
+        ]
+    },
+    {
+        "que": "Mạng riêng ảo (VPN) là cánh cửa để nhân viên làm việc từ xa kết nối vào hệ thống nội bộ. Do đó, nếu bạn để lộ mật khẩu VPN, tin tặc sẽ dùng nó như bước đệm đầu tiên để xâm nhập vào toàn bộ dữ liệu của Tập đoàn.",
+        "ans": [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Đâu là những loại mã độc nguy hiểm thường lây nhiễm vào máy tính của đơn vị nếu nhân viên bất cẩn khi duyệt web hoặc mở email?",
+        "ans": [
+            "Mã độc tống tiền, tự động khóa hoặc mã hóa mọi tài liệu quan trọng (Ransomware)",
+            "Mã độc ẩn mình dưới dạng phần mềm hữu ích để đánh cắp mật khẩu (Trojan).",
+            "Sâu máy tính có khả năng tự lây lan sang các máy tính khác trong cùng mạng nội bộ (Worm)."
+        ]
+    },
+    {
+        "que": "Các mục tiêu phổ biến mà kẻ tấn công giả mạo muốn đánh cắp từ bạn là gì?",
+        "ans": [
+            "Tên đăng nhập (Username)",
+            "Mật khẩu (Password)",
+            "Mã xác thực một lần (Mã OTP)",
+            "Thông tin thẻ tín dụng/tài khoản ngân hàng"
+        ]
+    },
+    {
+        "que": "Khi quyết định xem một tài liệu nội bộ nên được xếp vào loại Công khai, Nội bộ hay Mật, yếu tố quan trọng nhất cần xem xét là gì?",
+        "ans": [
+            "Mức độ thiệt hại về tài chính hoặc uy tín của Tập đoàn/đơn vị nếu tài liệu đó bị rò rỉ ra ngoài."
+        ]
+    },
+    {
+        "que": "Khi rời khỏi bàn làm việc, hành động nào sau đây là an toàn nhất?",
+        "ans": [
+            "Khóa màn hình máy tính ngay lập tức (Phím tắt: Windows L hoặc Command Control Q)"
+        ]
+    },
+    {
+        "que": "Các tệp (file) chứa thông tin cá nhân và lịch sử giao dịch của khách hàng bắt buộc phải được gắn nhãn ở mức Mật (Confidential) và kiểm soát truy cập nghiêm ngặt.",
+        "ans": [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Khi phát hiện máy tính bỗng nhiên hoạt động chậm bất thường và xuất hiện nhiều cửa sổ lạ, hành động đầu tiên bạn nên làm là gì?",
+        "ans": [
+            "Lập tức ngắt kết nối mạng (Rút dây cáp mạng hoặc tắt Wifi) của máy tính và báo cho bộ phận kỹ thuật / VNPT CERT của đơn vị"
+        ]
+    },
+    {
+        "que": "Nhiều nhân viên có thói quen cho đồng nghiệp mượn tài khoản làm việc của mình để xử lý công việc cho nhanh. Rủi ro lớn nhất của hành vi vi phạm này đối với tổ chức là gì?",
+        "ans": [
+            "Khi xảy ra sự cố rò rỉ dữ liệu hoặc xóa nhầm file, hệ thống sẽ không thể xác định chính xác ai là người thực sự đã làm việc đó để quy trách nhiệm."
+        ]
+    },
+    {
+        "que": "Khi bạn làm việc tại quán cà phê, việc kẻ gian cố tình tạo ra một mạng Wi-Fi mở (không có mật khẩu) với tên gọi giống hệt Wi-Fi của quán nhằm mục đích gì?",
+        "ans": [
+            "Đánh lừa bạn kết nối vào để chúng có thể chặn bắt, nghe lén và đánh cắp thông tin bạn đang xử lý."
+        ]
+    },
+    {
+        "que": "Khi phát hiện máy tính làm việc của mình có dấu hiệu bị nhiễm virus (như tự động hiện bảng lạ, file bị khóa), bạn nên thực hiện phản ứng nhanh nào dưới đây?",
+        "ans": [
+            "Rút dây mạng hoặc ngắt kết nối Wifi ngay lập tức để khoanh vùng, tránh lây lan sang máy khác.",
+            "Báo cáo khẩn cấp cho bộ phận IT/An toàn thông tin (VNPT CERT) của đơn vị để được hỗ trợ."
+        ]
+    },
+    {
+        "que": "Khi phát hiện đồng nghiệp có hành vi vi phạm nghiêm trọng nội quy của Tập đoàn (ví dụ: trộm cắp dữ liệu, làm lộ thông tin khách hàng), bạn nên làm gì đầu tiên?",
+        "ans": [
+            "Báo cáo qua các kênh chính thức (Quản lý trực tiếp, bộ phận Nhân sự hoặc đường dây nóng nội bộ)."
+        ]
     }
 ]
