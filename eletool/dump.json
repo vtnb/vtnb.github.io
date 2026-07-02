@@ -4710,5 +4710,145 @@
         "ans": [
             "Báo cáo qua các kênh chính thức (Quản lý trực tiếp, bộ phận Nhân sự hoặc đường dây nóng nội bộ)."
         ]
+    },
+    {
+        "que": "Trong các hệ thống như Google Drive hay OneDrive, tính năng Version History (Lịch sử phiên bản) giúp bạn giải quyết vấn đề nào?",
+        "ans": [
+            "Biết được ai là người đã thực hiện chỉnh sửa vào lúc nào.",
+            "So sánh sự khác biệt giữa các lần chỉnh sửa.",
+            "Khôi phục lại dữ liệu trước khi một người cộng tác vô tình xóa nội dung."
+        ]
+    },
+    {
+        "que": "Khi gửi dự thảo báo cáo cho đồng nghiệp để nhờ họ góp ý, sửa lỗi chính tả nhưng bạn không muốn họ vô tình xóa mất các đoạn văn bản gốc của bạn, bạn nên cấp quyền gì trên nền tảng lưu trữ?",
+        "ans": [
+            "Quyền Bình luận / Gợi ý chỉnh sửa (Commenter)."
+        ]
+    },
+    {
+        "que": "Có ý kiến cho rằng: Chỉ cần bật phần mềm Mạng riêng ảo (VPN) của Tập đoàn, máy tính của bạn sẽ miễn nhiễm hoàn toàn với mọi loại virus và mã độc trên Internet. Nhận định này là đúng hay sai?",
+        "ans": [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Khi bạn chia sẻ một tệp với quyền Public Link (Bất kỳ ai có liên kết), người nhận không cần đăng nhập tài khoản vẫn có thể xem được tệp.",
+        "ans": [
+            "Đúng"
+        ]
+    },
+    {
+        "que": "Khi đi qua cửa kiểm soát thẻ ra vào, bạn thấy một người lạ đi sát ngay sau mình mà không quẹt thẻ. Bạn nên làm gì?",
+        "ans": [
+            "Yêu cầu họ quẹt thẻ hoặc liên hệ bộ phận bảo vệ/lễ tân để được hỗ trợ."
+        ]
+    },
+    {
+        "que": "Một nhân viên làm việc từ xa đã bật mạng riêng ảo (VPN) và có mã xác thực OTP đầy đủ. Tuy nhiên, do bất cẩn, máy tính của người này bị nhiễm mã độc Ghi nhớ thao tác bàn phím (Keylogger). Hậu quả nghiêm trọng nhất vẫn có thể xảy ra là gì?",
+        "ans": [
+            "Tin tặc vẫn biết được toàn bộ tài khoản, mật khẩu và nội dung tin nhắn vì chúng ghi lại được mọi phím mà nhân viên đã gõ."
+        ]
+    },
+    {
+        "que": "Theo quy định, nhà mạng VNPT sẽ thông báo chuẩn hóa thông tin thuê bao qua các kênh chính thức nào?",
+        "ans": [
+            "VinaPhone sẽ triển khai các tin nhắn Brandname VinaPhone và thực hiện các cuộc gọi thông báo thông qua các số điện thoại 0888001091, 0911001091 và cuộc gọi hiển thị thương hiệu VinaPhone."
+        ]
+    },
+    {
+        "que": "Bạn nhận SMS cảnh báo đăng nhập bất thường và ngay sau đó có người gọi tự xưng IT yêu cầu OTP. Bản chất của tình huống này là gì?",
+        "ans": [
+            "Kẻ gian phối hợp giả mạo tin nhắn và cuộc gọi để tạo áp lực tâm lý, lừa bạn cung cấp mã OTP nhằm chiếm đoạt tài khoản."
+        ]
+    },
+    {
+        "que": "Khi bạn chia sẻ một tài liệu và đặt quyền truy cập là Bất kỳ ai có liên kết (Public access / Anyone with the link), điều này có nghĩa là gì?",
+        "ans": [
+            "Bất kỳ ai trên Internet có được đường link này đều có thể mở và xem tài liệu."
+        ]
+    },
+    {
+        "que": "Bạn đã chia sẻ link tệp dự án cho đối tác với quyền Editor. Sau đó, bạn phát hiện đối tác đã hoàn thành công việc. Để bảo đảm an toàn, bạn nên làm gì tiếp theo?",
+        "ans": [
+            "Đổi quyền của đối tác thành Viewer hoặc xóa quyền truy cập của họ."
+        ]
+    },
+    {
+        "que": "Hiện nay, những hình thức lừa đảo giả mạo nào thường nhắm đến cán bộ nhân viên văn phòng?",
+        "ans": [
+            "Kẻ gian mạo danh lãnh đạo nhờ chuyển tiền hoặc mua thẻ cào qua tin nhắn.",
+            "Email chứa mã độc giả danh thông báo từ phòng Nhân sự hoặc Kế toán.",
+            "Tin nhắn SMS giả mạo ngân hàng yêu cầu truy cập vào đường link lạ.",
+            "Giả mạo số điện thoại người gọi hiển thị trên màn hình (Caller ID)."
+        ]
+    },
+    {
+        "que": "Khi bạn chia sẻ một Thư mục (Folder) với quyền Chỉ xem (Viewer), người nhận có thể thêm tệp mới vào thư mục đó.",
+        "ans": [
+            "Sai"
+        ]
+    },
+    {
+        "que": "Thuật ngữ Mã độc (Malware) trên không gian mạng được hiểu chính xác là gì?",
+        "ans": [
+            "Là các loại phần mềm độc hại được kẻ xấu thiết kế để thâm nhập, phá hoại hoặc đánh cắp dữ liệu trái phép."
+        ]
+    },
+    {
+        "que": "Để bảo vệ các tài liệu giấy nội bộ trong văn phòng, đơn vị nên áp dụng những biện pháp nào?",
+        "ans": [
+            "Sử dụng tủ đựng tài liệu có khóa cho các hồ sơ quan trọng.",
+            "Ban hành quy định về việc tiêu hủy (đưa vào máy xé) các tài liệu giấy khi không còn sử dụng",
+            "Thực hiện quy tắc bàn làm việc sạch: không để tài liệu nhạy cảm trên bàn khi ra về hoặc khi vắng mặt lâu."
+        ]
+    },
+    {
+        "que": "Khi nhân viên làm việc từ xa, đâu là mắt xích yếu nhất mà tin tặc thường nhắm đến để xâm nhập vào hệ thống của Tập đoàn?",
+        "ans": [
+            "Thiết bị cá nhân (Laptop, điện thoại) và sự bất cẩn của chính nhân viên đó."
+        ]
+    },
+    {
+        "que": "Thuật ngữ Tấn công phi kỹ thuật (Social Engineering) trong an toàn thông tin được hiểu chính xác là hành vi nào dưới đây?",
+        "ans": [
+            "Sử dụng các mánh khóe thao túng tâm lý (dọa nạt, tạo lòng tin, đánh vào sự tò mò) để lừa nhân viên tự giao nộp thông tin mật."
+        ]
+    },
+    {
+        "que": "Máy điện thoại của bạn nhận được các tin nhắn báo nâng cấp hệ thống ngân hàng như này, chọn các phương án xử lý đúng nhất?",
+        "ans": [
+            "Đây là tin nhắn lừa đảo, bạn không nên thực hiện chọn vào link đăng nhập để tránh lộ thông tin tài khoản ngân hàng."
+        ]
+    },
+    {
+        "que": "08:15 sáng, bạn nhận email từ IT Helpdesk với tiêu đề Mật khẩu sẽ hết hạn trong 10 phút, kèm nút Reset Password. Domain người gửi là it-support-company.com thay vì domain công ty. Bạn nên làm gì đầu tiên?",
+        "ans": [
+            "Không bấm link, kiểm tra lại qua cổng IT/channels chính thức;"
+        ]
+    },
+    {
+        "que": "Nếu bạn bàng hoàng nhận ra mình vừa lỡ tay nhập mật khẩu email VNPT vào một trang web lừa đảo giả mạo, hành động khẩn cấp nhất cần làm là gì?",
+        "ans": [
+            "Lập tức sử dụng một thiết bị an toàn khác (như điện thoại di động) để đổi ngay mật khẩu của tài khoản đó và báo cho bộ phận IT."
+        ]
+    },
+    {
+        "que": "Khi bạn vô tình bấm vào một đường link lừa đảo, tại sao trình duyệt web (Chrome, Edge, CocCoc...) lại hiển thị màn hình cảnh báo đỏ với nội dung Trang web sắp truy cập có chứa phần mềm độc hại hoặc lừa đảo?",
+        "ans": [
+            "Do trình duyệt đối chiếu địa chỉ này với danh sách các trang web độc hại đã được các chuyên gia an ninh mạng cảnh báo trên toàn cầu."
+        ]
+    },
+    {
+        "que": "Hãy lựa chọn các dấu hiệu nhận biết của các cuộc lừa đảo khóa SIM vì chưa chuẩn hóa thuê bao?",
+        "ans": [
+            "Các đối tượng mạo danh là cán bộ, nhân viên của cơ quan quản lý Nhà nước hoặc nhà mạng gọi điện và thông báo số điện thoại của người sử dụng sẽ bị khóa 2 chiều trong 2 tiếng với các lý do như chưa nộp phạt, thuê bao sai thông tin.",
+            "Đề nghị người dùng thực hiện một số bước tiếp theo như: thực hiện các cú pháp sang tên đổi chủ thông tin số điện thoại, cú pháp chuyển hướng cuộc gọi"
+        ]
+    },
+    {
+        "que": "Khi một số điện thoại lạ tự xưng là công an gọi đến yêu cầu bạn phối hợp chuẩn hóa thông tin thuê bao vì số của bạn liên quan đến vụ án, bạn nên:",
+        "ans": [
+            "Yêu cầu họ gửi giấy mời làm việc chính thức hoặc đến trực tiếp trụ sở công an để làm việc."
+        ]
     }
 ]
