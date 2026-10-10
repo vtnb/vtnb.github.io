@@ -1,4 +1,4 @@
 {
-  "appInHouse": false,
+  "appInHouse": true,
   "enableAppInHouseSwitch": false
 }
