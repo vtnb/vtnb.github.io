@@ -1,6 +1,6 @@
 {
   "appInHouse": false,
   "review_iOS": false,
-  "review_android": true,
+  "review_android": false,
   "enableAppInHouseSwitch": false
 }
